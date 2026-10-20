@@ -17,7 +17,12 @@ BASE_DIR = Path(__file__).resolve().parent
 CSV_ROUTE = BASE_DIR / "raw_data.csv"
 CLEAN_CSV_PATH = BASE_DIR / "clean_data.csv"
 CREDS_PATH = BASE_DIR /"creds.json"
+
+### FILL IN YOUR SPREADSHEET ID HERE ###
+
 SPREADSHEET_ID = ""
+
+############# DON'T FORGET #############
 
 PM_PM_RATES = {'Molino': 15, 'Azure': 25, 'Belgrano': 20, 'Wellhub': 15, 'Rosebud': 30, 'Americano Health': 10, 'Gecko': 10, 'Panorama': 12, 'First Aid': 26}
 COMMISSION_AGENT_RATE = 0.45
