@@ -56,3 +56,7 @@ Run the data generator script first, followed by the data processing script:
 
 The scripts generate synthetic raw data, process and clean the dataset, and update the spreadsheet.
 
+## 6. Link to the dashboard in Google Sheets:
+
+**https://docs.google.com/spreadsheets/d/1f06c7gwUvikwxxydmVAYiiRUKS0PTLtgeLu4uebg0ug/edit?usp=sharing**
+
