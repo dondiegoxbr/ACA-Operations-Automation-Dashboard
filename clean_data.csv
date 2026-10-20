@@ -1,0 +1,1001 @@
+policy_id,client_name,state,agent,status,members_covered,metal_tier,premium,carrier,purchase_date,cancel_date,pipeline_deadline,pipeline_reason,pm_pm,commission_total,agent_commission,agency_commission
+AZ-101,Ana Gutierrez,AZ,Miguel Ledezma,Active,1,Silver,83.33,Wellhub,03-01-2026,,,,15,15,6.75,8.25
+AZ-102,Gabriela Castro,AZ,Azul Perez,Active,2,Bronze,38.61,Panorama,05-01-2026,,,,12,24,10.8,13.2
+AZ-103,Diego Ramos,AZ,Iris Solorzano,Active,1,Silver,103.84,Panorama,04-01-2026,,,,12,12,5.4,6.6
+AZ-104,Santiago Romero,AZ,Marisol Parra,Terminated,1,Bronze,11.28,Gecko,01-01-2026,02-28-2026,,,10,10,4.5,5.5
+AZ-105,Diego Gomez,AZ,Azul Perez,Active,4,Bronze,165.48,Americano Health,01-01-2026,,,,10,40,18.0,22.0
+AZ-106,Jose Marin,AZ,Iris Solorzano,Active,4,Bronze,168.33,Panorama,05-01-2026,,,,12,48,21.6,26.4
+AZ-107,Lucia Perez,AZ,Iris Solorzano,Active,1,Bronze,12.99,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+AZ-108,Pedro Martinez,AZ,Miguel Ledezma,Active,4,Bronze,152.87,Panorama,01-01-2026,,,,12,48,21.6,26.4
+AZ-109,Daniela Suarez,AZ,Anselmo Urrutia,Active,3,Bronze,101.57,Panorama,02-01-2026,,,,12,36,16.2,19.8
+AZ-110,Pedro Gonzalez,AZ,Iris Solorzano,Active,4,Bronze,139.42,First Aid,03-01-2026,,,,26,104,46.8,57.2
+AZ-111,Laura Perez,AZ,Anselmo Urrutia,Active,1,Bronze,23.36,Molino,04-01-2026,,,,15,15,6.75,8.25
+AZ-112,Mateo Silva,AZ,Azul Perez,Active,1,Bronze,23.16,Panorama,04-01-2026,,,,12,12,5.4,6.6
+AZ-113,Miguel Flores,AZ,Anselmo Urrutia,Terminated,1,Silver,90.32,Panorama,04-01-2026,04-30-2026,,,12,12,5.4,6.6
+AZ-114,Alejandro Vargas,AZ,Miguel Ledezma,Pipeline Expired,1,Silver,196.38,Wellhub,02-01-2026,05-31-2026,05-07-2026,,15,15,6.75,8.25
+AZ-115,Sofia Tovar,AZ,Miguel Ledezma,Pipeline Expired,2,Silver,159.21,Panorama,01-01-2026,03-31-2026,03-17-2026,,12,24,10.8,13.2
+AZ-116,Manuel Flores,AZ,Iris Solorzano,Pipeline Expired,3,Gold,494.37,Panorama,01-01-2026,03-31-2026,03-17-2026,,12,36,16.2,19.8
+AZ-117,Jorge Ramos,AZ,Anselmo Urrutia,Active,1,Gold,103.02,Wellhub,02-01-2026,,,,15,15,6.75,8.25
+AZ-118,Lucia Martinez,AZ,Iris Solorzano,Active,1,Silver,77.16,Panorama,04-01-2026,,,,12,12,5.4,6.6
+AZ-119,Sara Mendoza,AZ,Marisol Parra,Terminated,4,Gold,509.69,First Aid,03-01-2026,06-30-2026,,,26,104,46.8,57.2
+AZ-120,Mariana Garcia,AZ,Azul Perez,Active,2,Bronze,46.79,Gecko,03-01-2026,,,,10,20,9.0,11.0
+AZ-121,Ricardo Martinez,AZ,Azul Perez,Active,4,Silver,326.94,Azure,03-01-2026,,,,25,100,45.0,55.0
+AZ-122,Sebastian Sanchez,AZ,Azul Perez,Active,2,Silver,184.12,Molino,03-01-2026,,,,15,30,13.5,16.5
+AZ-123,Carlos Chavez,AZ,Iris Solorzano,Active,1,Silver,94.52,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+AZ-124,Jorge Herrera,AZ,Marisol Parra,Pipeline Expired,3,Silver,291.52,First Aid,01-01-2026,03-31-2026,03-17-2026,,26,78,35.1,42.9
+AZ-125,Mateo Rios,AZ,Marisol Parra,Active,1,Silver,57.67,Gecko,01-01-2026,,,,10,10,4.5,5.5
+AZ-126,Mariana Gomez,AZ,Arturo Rios,Terminated,1,Bronze,6.15,Wellhub,02-01-2026,04-30-2026,,,15,15,6.75,8.25
+AZ-127,Sebastian Martinez,AZ,Azul Perez,Active,1,Gold,166.2,Wellhub,03-01-2026,,,,15,15,6.75,8.25
+AZ-128,Sebastian Martinez,AZ,Miguel Ledezma,Terminated,4,Bronze,151.77,Gecko,01-01-2026,04-30-2026,,,10,40,18.0,22.0
+AZ-129,Manuel Valenzuela,AZ,Azul Perez,Active,3,Bronze,84.75,Rosebud,01-01-2026,,,,30,90,40.5,49.5
+AZ-130,Paula Rojas,AZ,Marisol Parra,Active,1,Bronze,108.85,Panorama,05-01-2026,,,,12,12,5.4,6.6
+AZ-131,Sofia Suarez,AZ,Nancy Ramirez,Active,2,Silver,109.14,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+AZ-132,Elena Acosta,AZ,Marisol Parra,Terminated,4,Gold,569.06,Panorama,02-01-2026,04-30-2026,,,12,48,21.6,26.4
+AZ-133,Martina Silva,AZ,Nancy Ramirez,Active,1,Bronze,466.44,First Aid,04-01-2026,,,,26,26,11.7,14.3
+AZ-134,Miguel Vargas,AZ,Anselmo Urrutia,Terminated,3,Gold,352.1,Wellhub,05-01-2026,06-30-2026,,,15,45,20.25,24.75
+AZ-135,Claudia Romero,AZ,Marisol Parra,Pipeline Expired,3,Bronze,103.99,Wellhub,02-01-2026,05-31-2026,05-07-2026,,15,45,20.25,24.75
+AZ-136,Lucas Infante,AZ,Marisol Parra,Active,1,Bronze,94.5,Molino,03-01-2026,,,,15,15,6.75,8.25
+AZ-137,Sebastian Lopez,AZ,Iris Solorzano,Pipeline Expired,4,Gold,646.89,Panorama,01-01-2026,03-31-2026,03-17-2026,,12,48,21.6,26.4
+AZ-138,Sofia Rios,AZ,Marisol Parra,Active,1,Bronze,168.45,Azure,01-01-2026,,,,25,25,11.25,13.75
+AZ-139,Sebastian Jimenez,AZ,Nancy Ramirez,Pipeline Expired,3,Silver,297.64,Americano Health,03-01-2026,05-31-2026,05-15-2026,,10,30,13.5,16.5
+AZ-140,Manuel Ortiz,AZ,Miguel Ledezma,Active,4,Gold,649.15,Belgrano,05-01-2026,,,,20,80,36.0,44.0
+AZ-141,Andres Castro,AZ,Arturo Rios,Active,2,Bronze,26.94,Molino,01-01-2026,,,,15,30,13.5,16.5
+AZ-142,Isabella Infante,AZ,Anselmo Urrutia,Active,1,Bronze,17.3,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+AZ-143,Nicolas Silva,AZ,Iris Solorzano,Active,1,Gold,316.32,Molino,04-01-2026,,,,15,15,6.75,8.25
+AZ-144,Lucia Torres,AZ,Iris Solorzano,Active,1,Bronze,469.32,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+AZ-145,Mateo Acosta,AZ,Nancy Ramirez,Active,1,Gold,186.35,First Aid,06-01-2026,,,,26,26,11.7,14.3
+AZ-146,Victoria Sanchez,AZ,Nancy Ramirez,Active,4,Bronze,135.979,Belgrano,05-01-2026,,,,20,80,36.0,44.0
+AZ-147,Nicolas Gutierrez,AZ,Iris Solorzano,Active,1,Bronze,40.86,Molino,04-01-2026,,,,15,15,6.75,8.25
+AZ-148,Ricardo Valenzuela,AZ,Nancy Ramirez,Active,1,Gold,159.85,First Aid,06-01-2026,,,,26,26,11.7,14.3
+AZ-149,Elena Ortiz,AZ,Anselmo Urrutia,Pipeline Expired,1,Bronze,320.93,Gecko,04-01-2026,06-30-2026,06-15-2026,,10,10,4.5,5.5
+AZ-150,Nicolas Alvarez,AZ,Mario Gomez,Active,2,Silver,189.87,Rosebud,05-01-2026,,,,30,60,27.0,33.0
+AZ-151,Daniel Gutierrez,AZ,Arturo Rios,Pipeline,4,Silver,311.73,Gecko,06-01-2026,,09-04-2026,Missing Documents,10,40,18.0,22.0
+AZ-152,Laura Lopez,AZ,Mario Gomez,Pipeline Expired,2,Bronze,33.09,Rosebud,02-01-2026,04-30-2026,04-17-2026,,30,60,27.0,33.0
+AZ-153,Gabriela Mendoza,AZ,Mario Gomez,Active,3,Bronze,114.81,Belgrano,06-01-2026,,,,20,60,27.0,33.0
+AZ-154,Daniel Nunez,AZ,Iris Solorzano,Active,1,Gold,156.72,Americano Health,01-01-2026,,,,10,10,4.5,5.5
+AZ-155,Ana Rodriguez,AZ,Mario Gomez,Active,4,Gold,639.93,First Aid,01-01-2026,,,,26,104,46.8,57.2
+AZ-156,Jorge Infante,AZ,Marisol Parra,Terminated,4,Silver,339.72,Americano Health,04-01-2026,06-30-2026,,,10,40,18.0,22.0
+AZ-157,Natalia Perez,AZ,Miguel Ledezma,Active,4,Silver,300.04,Gecko,03-01-2026,,,,10,40,18.0,22.0
+AZ-158,Alejandro Lopez,AZ,Azul Perez,Active,2,Gold,213.04,Molino,05-01-2026,,,,15,30,13.5,16.5
+AZ-159,Jose Lopez,AZ,Marisol Parra,Pipeline,4,Silver,334.2,Azure,06-01-2026,,08-15-2026,Missing Payment,25,100,45.0,55.0
+AZ-160,Pedro Sanchez,AZ,Nancy Ramirez,Terminated,1,Silver,354.9,Panorama,05-01-2026,05-31-2026,,,12,12,5.4,6.6
+AZ-161,Nicolas Flores,AZ,Miguel Ledezma,Pipeline Expired,1,Bronze,480.56,Panorama,03-01-2026,05-31-2026,05-15-2026,,12,12,5.4,6.6
+AZ-162,Sara Benitez,AZ,Azul Perez,Active,2,Gold,275.51,Belgrano,03-01-2026,,,,20,40,18.0,22.0
+AZ-163,Natalia Tovar,AZ,Miguel Ledezma,Active,1,Silver,316.13,Americano Health,06-01-2026,,,,10,10,4.5,5.5
+AZ-164,Daniela Flores,AZ,Marisol Parra,Active,1,Silver,379.48,Panorama,03-01-2026,,,,12,12,5.4,6.6
+AZ-165,Ana Castro,AZ,Iris Solorzano,Active,1,Silver,98.49,Gecko,03-01-2026,,,,10,10,4.5,5.5
+AZ-166,David Martinez,AZ,Mario Gomez,Active,1,Silver,236.09,Belgrano,01-01-2026,,,,20,20,9.0,11.0
+AZ-167,David Mendoza,AZ,Mario Gomez,Active,4,Gold,518.84,Wellhub,02-01-2026,,,,15,60,27.0,33.0
+AZ-168,Juan Tovar,AZ,Anselmo Urrutia,Active,3,Bronze,98.54,Belgrano,03-01-2026,,,,20,60,27.0,33.0
+AZ-169,Jorge Ramos,AZ,Azul Perez,Active,4,Gold,641.45,First Aid,06-01-2026,,,,26,104,46.8,57.2
+AZ-170,Andres Vargas,AZ,Anselmo Urrutia,Active,1,Silver,40.42,Molino,01-01-2026,,,,15,15,6.75,8.25
+AZ-171,Santiago Acosta,AZ,Iris Solorzano,Pipeline Expired,1,Silver,485.57,Azure,02-01-2026,04-30-2026,04-17-2026,,25,25,11.25,13.75
+AZ-172,Laura Acosta,AZ,Azul Perez,Terminated,1,Silver,323.2,Americano Health,03-01-2026,06-30-2026,,,10,10,4.5,5.5
+AZ-173,Manuel Morales,AZ,Anselmo Urrutia,Active,2,Silver,180.32,First Aid,01-01-2026,,,,26,52,23.4,28.6
+AZ-174,Camila Valenzuela,AZ,Nancy Ramirez,Active,4,Bronze,139.56,First Aid,06-01-2026,,,,26,104,46.8,57.2
+CA-101,Isabella Ortiz,CA,Marisol Parra,Active,1,Bronze,410.42,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+CA-102,Mateo Rios,CA,Miguel Ledezma,Active,1,Bronze,2.24,Azure,05-01-2026,,,,25,25,11.25,13.75
+CA-103,Ana Gutierrez,CA,Iris Solorzano,Active,1,Silver,450.13,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+CA-104,Nicolas Sanchez,CA,Azul Perez,Active,2,Gold,275.37,Gecko,06-01-2026,,,,10,20,9.0,11.0
+CA-105,Alejandro Nunez,CA,Anselmo Urrutia,Active,1,Silver,443.95,Molino,06-01-2026,,,,15,15,6.75,8.25
+CA-106,Paula Diaz,CA,Iris Solorzano,Terminated,1,Silver,73.23,Panorama,04-01-2026,05-31-2026,,,12,12,5.4,6.6
+CA-107,Victoria Vargas,CA,Iris Solorzano,Active,4,Silver,347.73,Rosebud,05-01-2026,,,,30,120,54.0,66.0
+CA-108,Sofia Castro,CA,Marisol Parra,Terminated,1,Gold,216.77,Molino,02-01-2026,03-31-2026,,,15,15,6.75,8.25
+CA-109,Javier Silva,CA,Mario Gomez,Active,4,Bronze,157.97,Belgrano,01-01-2026,,,,20,80,36.0,44.0
+CA-110,Santiago Garcia,CA,Marisol Parra,Pipeline,1,Bronze,6.4,Gecko,06-01-2026,,09-04-2026,Missing Payment,10,10,4.5,5.5
+CA-111,Gabriela Silva,CA,Azul Perez,Pipeline Expired,4,Bronze,135.43,Rosebud,03-01-2026,05-31-2026,05-15-2026,,30,120,54.0,66.0
+CA-112,Mariana Medina,CA,Miguel Ledezma,Active,2,Bronze,50.91,Wellhub,01-01-2026,,,,15,30,13.5,16.5
+CA-113,Fernando Flores,CA,Azul Perez,Active,1,Silver,76.35,First Aid,03-01-2026,,,,26,26,11.7,14.3
+CA-114,Camila Gutierrez,CA,Iris Solorzano,Active,2,Gold,232.84,Gecko,06-01-2026,,,,10,20,9.0,11.0
+CA-115,Claudia Rojas,CA,Mario Gomez,Active,3,Bronze,112.38,Americano Health,03-01-2026,,,,10,30,13.5,16.5
+CA-116,Maria Gutierrez,CA,Arturo Rios,Pipeline Expired,3,Silver,290.73,Belgrano,01-01-2026,03-31-2026,03-17-2026,,20,60,27.0,33.0
+CA-117,Daniela Infante,CA,Anselmo Urrutia,Active,1,Gold,106.49,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+CA-118,Daniel Rojas,CA,Azul Perez,Active,2,Bronze,49.49,Azure,05-01-2026,,,,25,50,22.5,27.5
+CA-119,Sofia Alvarez,CA,Iris Solorzano,Active,4,Silver,300.64,Panorama,06-01-2026,,,,12,48,21.6,26.4
+CA-120,Daniela Fernandez,CA,Arturo Rios,Active,3,Silver,295.77,First Aid,06-01-2026,,,,26,78,35.1,42.9
+CA-121,Luis Garcia,CA,Anselmo Urrutia,Pipeline Expired,3,Gold,351.93,Panorama,04-01-2026,06-30-2026,06-15-2026,,12,36,16.2,19.8
+CA-122,Valentina Acosta,CA,Azul Perez,Active,1,Gold,357.11,Panorama,06-01-2026,,,,12,12,5.4,6.6
+CA-123,Maria Marin,CA,Iris Solorzano,Active,2,Gold,340.76,Americano Health,04-01-2026,,,,10,20,9.0,11.0
+CA-124,David Acosta,CA,Arturo Rios,Active,2,Silver,184.1,Wellhub,05-01-2026,,,,15,30,13.5,16.5
+CA-125,Lucia Ortiz,CA,Marisol Parra,Active,2,Gold,252.3,Molino,06-01-2026,,,,15,30,13.5,16.5
+CA-126,Sofia Morales,CA,Marisol Parra,Active,2,Silver,127.65,Molino,06-01-2026,,,,15,30,13.5,16.5
+CA-127,Mateo Vargas,CA,Miguel Ledezma,Active,2,Bronze,47.09,Molino,06-01-2026,,,,15,30,13.5,16.5
+CA-128,Ricardo Sanchez,CA,Arturo Rios,Active,1,Gold,480.82,Belgrano,05-01-2026,,,,20,20,9.0,11.0
+CA-129,Paula Herrera,CA,Azul Perez,Active,4,Silver,324.28,Gecko,03-01-2026,,,,10,40,18.0,22.0
+CA-130,Laura Martinez,CA,Nancy Ramirez,Pipeline,4,Bronze,126.15,First Aid,06-01-2026,,08-15-2026,Missing Documents,26,104,46.8,57.2
+CA-131,Jose Martinez,CA,Marisol Parra,Active,4,Silver,346.36,Belgrano,05-01-2026,,,,20,80,36.0,44.0
+CA-132,Isabella Vargas,CA,Anselmo Urrutia,Active,1,Gold,187.2,Panorama,03-01-2026,,,,12,12,5.4,6.6
+CA-133,Daniel Romero,CA,Marisol Parra,Pipeline Expired,3,Gold,454.85,Rosebud,04-01-2026,06-30-2026,06-15-2026,,30,90,40.5,49.5
+CA-134,Juan Gonzalez,CA,Iris Solorzano,Active,1,Gold,182.14,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+CA-135,Laura Aguilar,CA,Mario Gomez,Active,1,Gold,129.61,First Aid,03-01-2026,,,,26,26,11.7,14.3
+CA-136,Luis Diaz,CA,Mario Gomez,Active,3,Bronze,112.06,Americano Health,01-01-2026,,,,10,30,13.5,16.5
+CA-137,Daniela Garcia,CA,Mario Gomez,Pipeline,1,Gold,255.14,Molino,05-01-2026,,07-15-2026,Missing Payment,15,15,6.75,8.25
+CA-138,Daniel Gutierrez,CA,Arturo Rios,Active,1,Bronze,13.63,Americano Health,04-01-2026,,,,10,10,4.5,5.5
+CA-139,Miguel Rojas,CA,Mario Gomez,Active,4,Gold,638.99,Gecko,06-01-2026,,,,10,40,18.0,22.0
+CA-140,Sofia Rojas,CA,Mario Gomez,Active,3,Bronze,88.42,Azure,04-01-2026,,,,25,75,33.75,41.25
+CA-141,Jose Sanchez,CA,Arturo Rios,Active,1,Gold,322.86,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+CA-142,Jorge Tovar,CA,Nancy Ramirez,Active,2,Bronze,58.18,First Aid,04-01-2026,,,,26,52,23.4,28.6
+CA-143,Andrea Gomez,CA,Mario Gomez,Active,1,Silver,79.2,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+CA-144,Victoria Alvarez,CA,Miguel Ledezma,Active,3,Gold,455.88,Belgrano,02-01-2026,,,,20,60,27.0,33.0
+CA-145,Mariana Silva,CA,Anselmo Urrutia,Active,1,Bronze,4.9,First Aid,05-01-2026,,,,26,26,11.7,14.3
+CA-146,Ana Tovar,CA,Iris Solorzano,Active,3,Silver,285.13,Americano Health,06-01-2026,,,,10,30,13.5,16.5
+CA-147,Jorge Ledesma,CA,Azul Perez,Active,4,Bronze,145.94,Azure,04-01-2026,,,,25,100,45.0,55.0
+CA-148,Alejandro Medina,CA,Azul Perez,Pipeline Expired,4,Bronze,165.8,Belgrano,04-01-2026,06-30-2026,06-15-2026,,20,80,36.0,44.0
+CA-149,Daniel Mendoza,CA,Arturo Rios,Active,2,Gold,306.23,Rosebud,04-01-2026,,,,30,60,27.0,33.0
+CA-150,Elena Gonzalez,CA,Arturo Rios,Active,3,Gold,470.11,Americano Health,05-01-2026,,,,10,30,13.5,16.5
+CA-151,Alejandro Miranda,CA,Mario Gomez,Active,3,Gold,355.6,Molino,01-01-2026,,,,15,45,20.25,24.75
+CA-152,Isabella Chavez,CA,Marisol Parra,Active,1,Silver,72.93,Americano Health,05-01-2026,,,,10,10,4.5,5.5
+CA-153,Gabriela Valenzuela,CA,Marisol Parra,Active,4,Silver,380.93,Azure,02-01-2026,,,,25,100,45.0,55.0
+CA-154,Claudia Ortiz,CA,Anselmo Urrutia,Active,1,Gold,222.12,Americano Health,04-01-2026,,,,10,10,4.5,5.5
+FL-101,Paula Alvarez,FL,Marisol Parra,Active,4,Bronze,146.84,Belgrano,02-01-2026,,,,20,80,36.0,44.0
+FL-102,Daniela Silva,FL,Nancy Ramirez,Active,1,Silver,335.8,Americano Health,04-01-2026,,,,10,10,4.5,5.5
+FL-103,Luis Ledesma,FL,Azul Perez,Pipeline Expired,4,Silver,364.67,Molino,02-01-2026,05-31-2026,05-07-2026,,15,60,27.0,33.0
+FL-104,Diego Gomez,FL,Nancy Ramirez,Terminated,2,Gold,340.81,Molino,02-01-2026,02-28-2026,,,15,30,13.5,16.5
+FL-105,Lucia Alvarez,FL,Nancy Ramirez,Active,3,Gold,382.7,Azure,01-01-2026,,,,25,75,33.75,41.25
+FL-106,Fernando Perez,FL,Anselmo Urrutia,Terminated,1,Silver,99.24,Wellhub,01-01-2026,02-28-2026,,,15,15,6.75,8.25
+FL-107,Elena Rodriguez,FL,Marisol Parra,Pipeline Expired,1,Bronze,5.09,Belgrano,03-01-2026,05-31-2026,05-15-2026,,20,20,9.0,11.0
+FL-108,Martina Ruiz,FL,Anselmo Urrutia,Active,4,Gold,543.42,Rosebud,04-01-2026,,,,30,120,54.0,66.0
+FL-109,Victoria Acosta,FL,Mario Gomez,Pipeline,2,Gold,330.4,Gecko,04-01-2026,,07-05-2026,Missing Documents,10,20,9.0,11.0
+FL-110,Juan Flores,FL,Iris Solorzano,Terminated,4,Bronze,145.78,First Aid,06-01-2026,06-30-2026,,,26,104,46.8,57.2
+FL-111,Pedro Marin,FL,Iris Solorzano,Pipeline Expired,1,Gold,185.56,Azure,04-01-2026,06-30-2026,06-15-2026,,25,25,11.25,13.75
+FL-112,Martina Ruiz,FL,Marisol Parra,Active,2,Gold,260.48,Rosebud,02-01-2026,,,,30,60,27.0,33.0
+FL-113,Lucas Fernandez,FL,Nancy Ramirez,Active,1,Silver,69.4,Americano Health,03-01-2026,,,,10,10,4.5,5.5
+FL-114,Ana Ramos,FL,Miguel Ledezma,Active,4,Gold,637.68,First Aid,06-01-2026,,,,26,104,46.8,57.2
+FL-115,Camila Lopez,FL,Nancy Ramirez,Active,4,Bronze,136.8,Azure,06-01-2026,,,,25,100,45.0,55.0
+FL-116,Lucas Jimenez,FL,Iris Solorzano,Active,1,Silver,234.25,Gecko,05-01-2026,,,,10,10,4.5,5.5
+FL-117,Natalia Diaz,FL,Nancy Ramirez,Active,2,Silver,112.98,Gecko,02-01-2026,,,,10,20,9.0,11.0
+FL-118,Andrea Alvarez,FL,Marisol Parra,Pipeline,1,Gold,34.45,Azure,05-01-2026,,08-04-2026,Missing Payment,25,25,11.25,13.75
+FL-119,Juan Rojas,FL,Marisol Parra,Pipeline,4,Silver,331.96,Molino,06-01-2026,,09-04-2026,Missing Documents,15,60,27.0,33.0
+FL-120,Maria Martinez,FL,Miguel Ledezma,Pipeline Expired,1,Silver,97.77,Wellhub,04-01-2026,06-30-2026,06-15-2026,,15,15,6.75,8.25
+FL-121,Miguel Ruiz,FL,Anselmo Urrutia,Pipeline Expired,3,Bronze,77.03,Wellhub,02-01-2026,04-30-2026,04-17-2026,,15,45,20.25,24.75
+FL-122,Mateo Valenzuela,FL,Azul Perez,Terminated,4,Gold,512.35,Rosebud,06-01-2026,06-30-2026,,,30,120,54.0,66.0
+FL-123,Maria Sanchez,FL,Marisol Parra,Active,1,Bronze,435.23,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+FL-124,Lucia Ramos,FL,Mario Gomez,Terminated,3,Bronze,111.78,Molino,01-01-2026,05-31-2026,,,15,45,20.25,24.75
+FL-125,Sara Torres,FL,Anselmo Urrutia,Active,1,Gold,330.01,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+FL-126,Victoria Sanchez,FL,Azul Perez,Active,1,Silver,96.91,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+FL-127,Sara Vargas,FL,Arturo Rios,Active,1,Silver,111.48,Panorama,02-01-2026,,,,12,12,5.4,6.6
+FL-128,Elena Flores,FL,Mario Gomez,Active,1,Bronze,12.13,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+FL-129,Carlos Nunez,FL,Iris Solorzano,Pipeline,1,Gold,279.74,Gecko,06-01-2026,,08-15-2026,Missing Documents,10,10,4.5,5.5
+FL-130,Victoria Infante,FL,Mario Gomez,Active,1,Gold,431.95,Azure,04-01-2026,,,,25,25,11.25,13.75
+FL-131,Lucas Vargas,FL,Arturo Rios,Active,4,Bronze,173.21,Belgrano,06-01-2026,,,,20,80,36.0,44.0
+FL-132,Mateo Aguilar,FL,Marisol Parra,Pipeline,1,Bronze,264.03,First Aid,05-01-2026,,08-04-2026,Missing Documents,26,26,11.7,14.3
+FL-133,Carlos Jimenez,FL,Arturo Rios,Terminated,3,Gold,483.33,Gecko,05-01-2026,05-31-2026,,,10,30,13.5,16.5
+FL-134,Diego Valenzuela,FL,Marisol Parra,Active,4,Gold,613.42,First Aid,04-01-2026,,,,26,104,46.8,57.2
+FL-135,Ana Suarez,FL,Azul Perez,Terminated,1,Gold,176.8,Gecko,06-01-2026,06-30-2026,,,10,10,4.5,5.5
+FL-136,Sebastian Acosta,FL,Nancy Ramirez,Active,1,Gold,394.9,Azure,02-01-2026,,,,25,25,11.25,13.75
+FL-137,Laura Benitez,FL,Iris Solorzano,Pipeline Expired,1,Silver,76.16,Belgrano,02-01-2026,04-30-2026,04-17-2026,,20,20,9.0,11.0
+FL-138,Fernando Aguilar,FL,Iris Solorzano,Active,2,Gold,325.68,Rosebud,06-01-2026,,,,30,60,27.0,33.0
+FL-139,Fernando Silva,FL,Arturo Rios,Active,4,Silver,300.206,Gecko,06-01-2026,,,,10,40,18.0,22.0
+FL-140,Mariana Benitez,FL,Azul Perez,Active,2,Gold,269.94,Azure,01-01-2026,,,,25,50,22.5,27.5
+FL-141,Lucia Marin,FL,Miguel Ledezma,Pipeline,3,Gold,497.73,Rosebud,04-01-2026,,07-05-2026,Missing Payment,30,90,40.5,49.5
+FL-142,Pedro Rodriguez,FL,Miguel Ledezma,Terminated,1,Silver,394.73,Azure,02-01-2026,02-28-2026,,,25,25,11.25,13.75
+FL-143,Daniel Benitez,FL,Anselmo Urrutia,Terminated,1,Bronze,12.45,Belgrano,05-01-2026,06-30-2026,,,20,20,9.0,11.0
+FL-144,Maria Miranda,FL,Mario Gomez,Active,1,Gold,442.05,Americano Health,06-01-2026,,,,10,10,4.5,5.5
+FL-145,Mariana Acosta,FL,Marisol Parra,Active,3,Bronze,81.27,Gecko,04-01-2026,,,,10,30,13.5,16.5
+FL-146,Daniela Romero,FL,Anselmo Urrutia,Active,2,Silver,117.37,Americano Health,01-01-2026,,,,10,20,9.0,11.0
+FL-147,Jorge Suarez,FL,Anselmo Urrutia,Active,1,Bronze,21.84,Americano Health,04-01-2026,,,,10,10,4.5,5.5
+FL-148,Mariana Marin,FL,Anselmo Urrutia,Active,1,Bronze,3.04,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+FL-149,Valentina Silva,FL,Nancy Ramirez,Pipeline,2,Gold,230.68,Molino,05-01-2026,,07-15-2026,Missing Documents,15,30,13.5,16.5
+FL-150,Isabella Rios,FL,Marisol Parra,Terminated,1,Gold,162.28,Wellhub,05-01-2026,05-31-2026,,,15,15,6.75,8.25
+FL-151,Mariana Infante,FL,Iris Solorzano,Active,1,Silver,302.09,Belgrano,02-01-2026,,,,20,20,9.0,11.0
+FL-152,Sebastian Martinez,FL,Anselmo Urrutia,Pipeline,4,Gold,619.86,Belgrano,06-01-2026,,09-04-2026,Missing Payment,20,80,36.0,44.0
+FL-153,Isabella Rodriguez,FL,Anselmo Urrutia,Pipeline Expired,1,Silver,300.77,Wellhub,03-01-2026,05-31-2026,05-15-2026,,15,15,6.75,8.25
+FL-154,Sara Silva,FL,Anselmo Urrutia,Active,1,Bronze,24.84,Molino,05-01-2026,,,,15,15,6.75,8.25
+FL-155,Carlos Medina,FL,Marisol Parra,Terminated,3,Gold,424.1,Rosebud,02-01-2026,02-28-2026,,,30,90,40.5,49.5
+FL-156,Sofia Castro,FL,Mario Gomez,Pipeline,1,Silver,95.55,First Aid,04-01-2026,,07-05-2026,Missing Documents,26,26,11.7,14.3
+FL-157,Diego Diaz,FL,Arturo Rios,Terminated,3,Gold,357.51,Gecko,05-01-2026,06-30-2026,,,10,30,13.5,16.5
+FL-158,Javier Rodriguez,FL,Marisol Parra,Pipeline Expired,1,Gold,256.6,Wellhub,01-01-2026,04-30-2026,04-06-2026,,15,15,6.75,8.25
+FL-159,David Fernandez,FL,Nancy Ramirez,Active,1,Bronze,5.07,Gecko,05-01-2026,,,,10,10,4.5,5.5
+FL-160,Alejandro Marin,FL,Mario Gomez,Terminated,2,Bronze,47.42,Americano Health,02-01-2026,05-31-2026,,,10,20,9.0,11.0
+FL-161,Fernando Torres,FL,Arturo Rios,Terminated,1,Silver,96.59,Gecko,02-01-2026,03-31-2026,,,10,10,4.5,5.5
+FL-162,Andres Herrera,FL,Iris Solorzano,Active,4,Gold,620.88,Americano Health,04-01-2026,,,,10,40,18.0,22.0
+FL-163,Lucas Mendoza,FL,Nancy Ramirez,Active,1,Gold,364.56,First Aid,02-01-2026,,,,26,26,11.7,14.3
+FL-164,Natalia Sanchez,FL,Anselmo Urrutia,Terminated,4,Silver,371.12,Azure,05-01-2026,05-31-2026,,,25,100,45.0,55.0
+FL-165,Sofia Jimenez,FL,Marisol Parra,Active,1,Bronze,366.57,First Aid,02-01-2026,,,,26,26,11.7,14.3
+GA-101,Isabella Perez,GA,Arturo Rios,Active,2,Gold,269.9,Rosebud,05-01-2026,,,,30,60,27.0,33.0
+GA-102,David Diaz,GA,Mario Gomez,Active,2,Gold,260.16,Americano Health,01-01-2026,,,,10,20,9.0,11.0
+GA-103,Gabriela Rojas,GA,Anselmo Urrutia,Active,2,Gold,318.32,First Aid,05-01-2026,,,,26,52,23.4,28.6
+GA-104,Daniel Castro,GA,Marisol Parra,Active,1,Bronze,298.67,Gecko,03-01-2026,,,,10,10,4.5,5.5
+GA-105,Daniela Morales,GA,Mario Gomez,Active,3,Silver,241.83,Molino,03-01-2026,,,,15,45,20.25,24.75
+GA-106,Mariana Tovar,GA,Marisol Parra,Active,2,Gold,343.79,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+GA-107,Alejandro Morales,GA,Anselmo Urrutia,Terminated,3,Gold,418.88,Americano Health,02-01-2026,03-31-2026,,,10,30,13.5,16.5
+GA-108,Paula Rios,GA,Iris Solorzano,Active,2,Gold,227.2,Panorama,04-01-2026,,,,12,24,10.8,13.2
+GA-109,Alejandro Chavez,GA,Iris Solorzano,Active,4,Silver,395.41,Panorama,02-01-2026,,,,12,48,21.6,26.4
+GA-110,Ana Gonzalez,GA,Arturo Rios,Active,4,Bronze,147.98,Belgrano,01-01-2026,,,,20,80,36.0,44.0
+GA-111,Mateo Gomez,GA,Azul Perez,Active,1,Bronze,436.21,Panorama,04-01-2026,,,,12,12,5.4,6.6
+GA-112,Mateo Lopez,GA,Arturo Rios,Active,1,Gold,492.64,Gecko,01-01-2026,,,,10,10,4.5,5.5
+GA-113,Martina Vargas,GA,Marisol Parra,Active,4,Silver,340.47,Belgrano,01-01-2026,,,,20,80,36.0,44.0
+GA-114,Diego Infante,GA,Mario Gomez,Active,3,Bronze,83.83,Rosebud,06-01-2026,,,,30,90,40.5,49.5
+GA-115,Jose Rojas,GA,Nancy Ramirez,Active,1,Bronze,339.78,Azure,03-01-2026,,,,25,25,11.25,13.75
+GA-116,Elena Benitez,GA,Azul Perez,Terminated,1,Gold,182.21,Americano Health,05-01-2026,06-30-2026,,,10,10,4.5,5.5
+GA-117,Luis Benitez,GA,Iris Solorzano,Active,1,Silver,32.63,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+GA-118,Ana Gonzalez,GA,Mario Gomez,Active,1,Bronze,401.62,Americano Health,02-01-2026,,,,10,10,4.5,5.5
+GA-119,Laura Suarez,GA,Mario Gomez,Active,1,Silver,76.72,Rosebud,05-01-2026,,,,30,30,13.5,16.5
+GA-120,Natalia Ruiz,GA,Mario Gomez,Active,2,Gold,256.56,Rosebud,05-01-2026,,,,30,60,27.0,33.0
+GA-121,Elena Diaz,GA,Marisol Parra,Active,3,Bronze,95.86,Azure,02-01-2026,,,,25,75,33.75,41.25
+GA-122,Lucas Ledesma,GA,Azul Perez,Active,3,Bronze,110.28,Panorama,05-01-2026,,,,12,36,16.2,19.8
+GA-123,Luis Suarez,GA,Miguel Ledezma,Active,1,Silver,88.27,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+GA-124,Andres Herrera,GA,Nancy Ramirez,Active,1,Silver,77.98,Gecko,06-01-2026,,,,10,10,4.5,5.5
+GA-125,Luis Chavez,GA,Nancy Ramirez,Active,4,Bronze,163.9,Azure,03-01-2026,,,,25,100,45.0,55.0
+GA-126,Daniel Sanchez,GA,Iris Solorzano,Active,1,Silver,96.16,Panorama,06-01-2026,,,,12,12,5.4,6.6
+GA-127,Paula Flores,GA,Miguel Ledezma,Active,1,Silver,63.51,Molino,06-01-2026,,,,15,15,6.75,8.25
+GA-128,Sara Rios,GA,Arturo Rios,Terminated,2,Bronze,31.67,Gecko,05-01-2026,05-31-2026,,,10,20,9.0,11.0
+GA-129,Javier Benitez,GA,Anselmo Urrutia,Active,1,Gold,187.35,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+GA-130,Lucia Flores,GA,Miguel Ledezma,Active,2,Gold,215.36,Belgrano,05-01-2026,,,,20,40,18.0,22.0
+GA-131,Miguel Tovar,GA,Arturo Rios,Terminated,1,Silver,55.596,Belgrano,04-01-2026,06-30-2026,,,20,20,9.0,11.0
+GA-132,Natalia Jimenez,GA,Iris Solorzano,Active,1,Silver,55.56,Panorama,01-01-2026,,,,12,12,5.4,6.6
+GA-133,Ana Torres,GA,Arturo Rios,Active,4,Gold,579.85,Gecko,04-01-2026,,,,10,40,18.0,22.0
+GA-134,Manuel Suarez,GA,Miguel Ledezma,Pipeline Expired,1,Bronze,498.32,Panorama,03-01-2026,05-31-2026,05-15-2026,,12,12,5.4,6.6
+GA-135,Mariana Garcia,GA,Mario Gomez,Active,1,Gold,257.99,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+GA-136,Miguel Rojas,GA,Mario Gomez,Active,1,Silver,73.23,Panorama,04-01-2026,,,,12,12,5.4,6.6
+GA-137,Isabella Gutierrez,GA,Nancy Ramirez,Terminated,1,Bronze,283.8,Belgrano,05-01-2026,06-30-2026,,,20,20,9.0,11.0
+GA-138,Nicolas Infante,GA,Azul Perez,Active,4,Bronze,152.48,Panorama,01-01-2026,,,,12,48,21.6,26.4
+GA-139,Luis Ruiz,GA,Iris Solorzano,Terminated,3,Silver,282.99,Gecko,02-01-2026,06-30-2026,,,10,30,13.5,16.5
+GA-140,Lucas Perez,GA,Mario Gomez,Active,4,Bronze,139.38,Molino,02-01-2026,,,,15,60,27.0,33.0
+GA-141,Sara Tovar,GA,Marisol Parra,Active,1,Bronze,471.33,Molino,01-01-2026,,,,15,15,6.75,8.25
+GA-142,Laura Lopez,GA,Arturo Rios,Active,3,Gold,413.75,Molino,02-01-2026,,,,15,45,20.25,24.75
+GA-143,Camila Sanchez,GA,Mario Gomez,Active,2,Gold,300.84,First Aid,01-01-2026,,,,26,52,23.4,28.6
+GA-144,Claudia Suarez,GA,Arturo Rios,Terminated,3,Bronze,102.92,Belgrano,01-01-2026,03-31-2026,,,20,60,27.0,33.0
+GA-145,Daniela Rodriguez,GA,Mario Gomez,Pipeline,1,Silver,75.0,Molino,06-01-2026,,08-15-2026,Missing Payment,15,15,6.75,8.25
+GA-146,Pedro Rios,GA,Miguel Ledezma,Terminated,2,Gold,257.16,Rosebud,04-01-2026,05-31-2026,,,30,60,27.0,33.0
+GA-147,Carlos Vargas,GA,Marisol Parra,Active,4,Gold,545.07,Wellhub,05-01-2026,,,,15,60,27.0,33.0
+GA-148,Claudia Gonzalez,GA,Mario Gomez,Active,4,Silver,380.83,Rosebud,01-01-2026,,,,30,120,54.0,66.0
+GA-149,Santiago Silva,GA,Mario Gomez,Pipeline Expired,4,Gold,538.71,First Aid,02-01-2026,04-30-2026,04-17-2026,,26,104,46.8,57.2
+GA-150,Jose Valenzuela,GA,Nancy Ramirez,Active,4,Gold,526.18,Azure,06-01-2026,,,,25,100,45.0,55.0
+GA-151,Manuel Garcia,GA,Marisol Parra,Active,1,Bronze,17.13,Azure,03-01-2026,,,,25,25,11.25,13.75
+GA-152,Laura Rios,GA,Miguel Ledezma,Active,4,Silver,350.55,Belgrano,05-01-2026,,,,20,80,36.0,44.0
+GA-153,Daniela Infante,GA,Anselmo Urrutia,Active,4,Bronze,149.5,Wellhub,05-01-2026,,,,15,60,27.0,33.0
+GA-154,Sebastian Rios,GA,Miguel Ledezma,Terminated,3,Bronze,100.98,Azure,05-01-2026,05-31-2026,,,25,75,33.75,41.25
+GA-155,Ricardo Aguilar,GA,Anselmo Urrutia,Active,1,Silver,199.14,Belgrano,06-01-2026,,,,20,20,9.0,11.0
+GA-156,Sebastian Flores,GA,Anselmo Urrutia,Active,1,Gold,163.54,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+GA-157,Juan Torres,GA,Nancy Ramirez,Active,3,Silver,203.17,Belgrano,03-01-2026,,,,20,60,27.0,33.0
+GA-158,Juan Martinez,GA,Marisol Parra,Pipeline Expired,1,Silver,245.37,Wellhub,03-01-2026,06-30-2026,06-04-2026,,15,15,6.75,8.25
+GA-159,Nicolas Garcia,GA,Iris Solorzano,Active,1,Bronze,218.83,Panorama,01-01-2026,,,,12,12,5.4,6.6
+GA-160,Manuel Vargas,GA,Nancy Ramirez,Terminated,2,Bronze,29.59,Panorama,03-01-2026,03-31-2026,,,12,24,10.8,13.2
+GA-161,Andres Ramos,GA,Mario Gomez,Active,1,Gold,462.17,Panorama,06-01-2026,,,,12,12,5.4,6.6
+GA-162,Paula Martinez,GA,Iris Solorzano,Active,2,Gold,237.56,Americano Health,05-01-2026,,,,10,20,9.0,11.0
+GA-163,Carlos Gomez,GA,Mario Gomez,Pipeline Expired,2,Silver,175.39,Molino,01-01-2026,03-31-2026,03-17-2026,,15,30,13.5,16.5
+GA-164,Carlos Acosta,GA,Nancy Ramirez,Pipeline,4,Bronze,160.44,Wellhub,05-01-2026,,07-15-2026,Missing Documents,15,60,27.0,33.0
+GA-165,David Lopez,GA,Azul Perez,Active,3,Gold,447.77,First Aid,04-01-2026,,,,26,78,35.1,42.9
+GA-166,Fernando Gonzalez,GA,Mario Gomez,Active,1,Silver,138.73,Azure,03-01-2026,,,,25,25,11.25,13.75
+GA-167,Ricardo Rios,GA,Azul Perez,Terminated,1,Gold,189.76,Gecko,01-01-2026,02-28-2026,,,10,10,4.5,5.5
+GA-168,Daniel Diaz,GA,Azul Perez,Pipeline,2,Gold,218.05,Gecko,06-01-2026,,08-15-2026,Missing Payment,10,20,9.0,11.0
+GA-169,Daniel Nunez,GA,Azul Perez,Terminated,4,Silver,310.19,First Aid,06-01-2026,06-30-2026,,,26,104,46.8,57.2
+GA-170,Miguel Benitez,GA,Arturo Rios,Active,1,Bronze,239.67,Gecko,03-01-2026,,,,10,10,4.5,5.5
+GA-171,Miguel Perez,GA,Anselmo Urrutia,Pipeline Expired,4,Silver,334.81,Azure,01-01-2026,04-30-2026,04-06-2026,,25,100,45.0,55.0
+GA-172,Jorge Gonzalez,GA,Anselmo Urrutia,Active,3,Silver,283.88,Americano Health,04-01-2026,,,,10,30,13.5,16.5
+IL-101,Nicolas Rios,IL,Miguel Ledezma,Active,4,Bronze,152.78,Molino,05-01-2026,,,,15,60,27.0,33.0
+IL-102,Valentina Romero,IL,Mario Gomez,Active,1,Gold,347.03,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+IL-103,Santiago Romero,IL,Miguel Ledezma,Pipeline Expired,2,Silver,162.97,First Aid,04-01-2026,06-30-2026,06-15-2026,,26,52,23.4,28.6
+IL-104,Andrea Rojas,IL,Marisol Parra,Pipeline Expired,1,Bronze,436.12,Wellhub,02-01-2026,04-30-2026,04-17-2026,,15,15,6.75,8.25
+IL-105,Elena Diaz,IL,Mario Gomez,Active,1,Bronze,281.2,Molino,02-01-2026,,,,15,15,6.75,8.25
+IL-106,Sofia Infante,IL,Azul Perez,Terminated,1,Bronze,199.61,Molino,03-01-2026,06-30-2026,,,15,15,6.75,8.25
+IL-107,Ana Benitez,IL,Azul Perez,Active,2,Gold,227.48,Americano Health,02-01-2026,,,,10,20,9.0,11.0
+IL-108,Elena Medina,IL,Miguel Ledezma,Pipeline,1,Bronze,1.81,Americano Health,05-01-2026,,07-15-2026,Missing Payment,10,10,4.5,5.5
+IL-109,Mateo Diaz,IL,Anselmo Urrutia,Active,2,Gold,321.29,Belgrano,01-01-2026,,,,20,40,18.0,22.0
+IL-110,Andrea Ortiz,IL,Mario Gomez,Active,1,Gold,299.46,First Aid,02-01-2026,,,,26,26,11.7,14.3
+IL-111,Lucas Aguilar,IL,Marisol Parra,Active,3,Silver,239.04,Americano Health,03-01-2026,,,,10,30,13.5,16.5
+IL-112,Carlos Ramos,IL,Nancy Ramirez,Active,4,Bronze,167.43,Azure,06-01-2026,,,,25,100,45.0,55.0
+IL-113,Fernando Sanchez,IL,Mario Gomez,Active,1,Bronze,201.9,Azure,01-01-2026,,,,25,25,11.25,13.75
+IL-114,Ricardo Diaz,IL,Anselmo Urrutia,Terminated,2,Bronze,30.82,First Aid,02-01-2026,06-30-2026,,,26,52,23.4,28.6
+IL-115,Diego Marin,IL,Iris Solorzano,Active,3,Gold,478.45,Belgrano,05-01-2026,,,,20,60,27.0,33.0
+IL-116,Lucas Garcia,IL,Mario Gomez,Pipeline,1,Silver,364.22,Americano Health,06-01-2026,,08-15-2026,Missing Payment,10,10,4.5,5.5
+IL-117,Jose Rodriguez,IL,Miguel Ledezma,Active,4,Gold,590.04,Rosebud,05-01-2026,,,,30,120,54.0,66.0
+IL-118,Mariana Ramos,IL,Anselmo Urrutia,Active,2,Silver,193.91,Belgrano,05-01-2026,,,,20,40,18.0,22.0
+IL-119,Claudia Mendoza,IL,Arturo Rios,Terminated,1,Silver,56.14,Panorama,03-01-2026,05-31-2026,,,12,12,5.4,6.6
+IL-120,Lucia Flores,IL,Marisol Parra,Active,2,Gold,301.87,Rosebud,06-01-2026,,,,30,60,27.0,33.0
+IL-121,Alejandro Romero,IL,Mario Gomez,Active,3,Bronze,106.8,Panorama,03-01-2026,,,,12,36,16.2,19.8
+IL-122,Carlos Nunez,IL,Miguel Ledezma,Active,2,Gold,275.15,Molino,05-01-2026,,,,15,30,13.5,16.5
+IL-123,Daniel Herrera,IL,Miguel Ledezma,Terminated,1,Bronze,403.96,Azure,02-01-2026,06-30-2026,,,25,25,11.25,13.75
+IL-124,Laura Aguilar,IL,Arturo Rios,Active,1,Gold,183.33,Wellhub,03-01-2026,,,,15,15,6.75,8.25
+IL-125,Juan Garcia,IL,Anselmo Urrutia,Terminated,4,Silver,382.15,Panorama,05-01-2026,06-30-2026,,,12,48,21.6,26.4
+IL-126,Lucas Rodriguez,IL,Azul Perez,Active,3,Gold,497.75,Gecko,06-01-2026,,,,10,30,13.5,16.5
+IL-127,Santiago Marin,IL,Mario Gomez,Active,4,Silver,392.77,Panorama,04-01-2026,,,,12,48,21.6,26.4
+IL-128,Sofia Ramos,IL,Nancy Ramirez,Active,2,Bronze,59.17,Belgrano,04-01-2026,,,,20,40,18.0,22.0
+IL-129,Mariana Medina,IL,Miguel Ledezma,Active,4,Gold,534.76,Gecko,02-01-2026,,,,10,40,18.0,22.0
+IL-130,Isabella Suarez,IL,Azul Perez,Pipeline Expired,4,Bronze,131.7,Gecko,02-01-2026,05-31-2026,05-07-2026,,10,40,18.0,22.0
+IL-131,Diego Jimenez,IL,Anselmo Urrutia,Active,1,Bronze,4.05,Belgrano,04-01-2026,,,,20,20,9.0,11.0
+IL-132,Maria Acosta,IL,Miguel Ledezma,Active,4,Gold,501.65,Gecko,01-01-2026,,,,10,40,18.0,22.0
+IL-133,Mariana Diaz,IL,Marisol Parra,Terminated,1,Gold,358.53,Wellhub,02-01-2026,04-30-2026,,,15,15,6.75,8.25
+IL-134,Mariana Ramos,IL,Marisol Parra,Terminated,1,Silver,64.331,First Aid,02-01-2026,03-31-2026,,,26,26,11.7,14.3
+IL-135,Sofia Rodriguez,IL,Marisol Parra,Active,1,Gold,189.76,Belgrano,01-01-2026,,,,20,20,9.0,11.0
+IL-136,Gabriela Marin,IL,Azul Perez,Terminated,1,Gold,162.28,Azure,02-01-2026,06-30-2026,,,25,25,11.25,13.75
+IL-137,Manuel Sanchez,IL,Miguel Ledezma,Active,4,Gold,629.21,Gecko,06-01-2026,,,,10,40,18.0,22.0
+IL-138,Diego Diaz,IL,Arturo Rios,Terminated,1,Bronze,12.596,Panorama,01-01-2026,03-31-2026,,,12,12,5.4,6.6
+IL-139,Lucas Rios,IL,Iris Solorzano,Active,2,Bronze,52.2,Panorama,05-01-2026,,,,12,24,10.8,13.2
+IL-140,Andrea Silva,IL,Nancy Ramirez,Pipeline Expired,3,Gold,404.71,Azure,01-01-2026,03-31-2026,03-17-2026,,25,75,33.75,41.25
+IL-141,Luis Jimenez,IL,Mario Gomez,Active,1,Silver,248.22,Americano Health,05-01-2026,,,,10,10,4.5,5.5
+IL-142,Jorge Marin,IL,Mario Gomez,Active,1,Silver,157.81,Panorama,03-01-2026,,,,12,12,5.4,6.6
+IL-143,Laura Morales,IL,Mario Gomez,Pipeline Expired,3,Gold,378.87,First Aid,03-01-2026,05-31-2026,05-15-2026,,26,78,35.1,42.9
+IL-144,Sara Rojas,IL,Anselmo Urrutia,Active,3,Gold,499.12,Panorama,05-01-2026,,,,12,36,16.2,19.8
+IL-145,Natalia Nunez,IL,Iris Solorzano,Terminated,1,Silver,77.39,Molino,02-01-2026,04-30-2026,,,15,15,6.75,8.25
+IL-146,Claudia Gomez,IL,Iris Solorzano,Terminated,1,Silver,88.51,Rosebud,03-01-2026,04-30-2026,,,30,30,13.5,16.5
+IL-147,Daniel Flores,IL,Iris Solorzano,Active,1,Silver,360.19,Azure,04-01-2026,,,,25,25,11.25,13.75
+IL-148,Mariana Castro,IL,Anselmo Urrutia,Active,3,Silver,249.3,Rosebud,05-01-2026,,,,30,90,40.5,49.5
+IL-149,Ana Marin,IL,Anselmo Urrutia,Pipeline,1,Bronze,249.98,Rosebud,04-01-2026,,07-05-2026,Missing Payment,30,30,13.5,16.5
+IL-150,Claudia Rojas,IL,Iris Solorzano,Terminated,1,Bronze,42.93,Wellhub,03-01-2026,03-31-2026,,,15,15,6.75,8.25
+IL-151,Laura Rodriguez,IL,Nancy Ramirez,Active,2,Gold,276.71,First Aid,03-01-2026,,,,26,52,23.4,28.6
+IL-152,Mateo Benitez,IL,Nancy Ramirez,Active,1,Bronze,292.58,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+IL-153,Juan Nunez,IL,Azul Perez,Terminated,1,Bronze,68.22,Molino,02-01-2026,05-31-2026,,,15,15,6.75,8.25
+IL-154,Andrea Acosta,IL,Miguel Ledezma,Active,4,Bronze,137.7,Molino,04-01-2026,,,,15,60,27.0,33.0
+IL-155,Victoria Silva,IL,Iris Solorzano,Active,1,Silver,366.36,Molino,02-01-2026,,,,15,15,6.75,8.25
+IL-156,Javier Torres,IL,Nancy Ramirez,Pipeline,1,Gold,446.42,Rosebud,05-01-2026,,07-15-2026,Missing Documents,30,30,13.5,16.5
+IL-157,Elena Miranda,IL,Mario Gomez,Active,2,Bronze,43.4,Belgrano,04-01-2026,,,,20,40,18.0,22.0
+IL-158,Alejandro Herrera,IL,Mario Gomez,Active,3,Silver,218.38,Gecko,04-01-2026,,,,10,30,13.5,16.5
+IL-159,Javier Suarez,IL,Arturo Rios,Active,1,Silver,363.43,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+IL-160,Diego Gomez,IL,Arturo Rios,Active,1,Bronze,40.92,Gecko,01-01-2026,,,,10,10,4.5,5.5
+IL-161,Isabella Gomez,IL,Marisol Parra,Active,3,Gold,422.05,Belgrano,04-01-2026,,,,20,60,27.0,33.0
+IL-162,Maria Silva,IL,Iris Solorzano,Active,1,Gold,196.07,Gecko,04-01-2026,,,,10,10,4.5,5.5
+IL-163,Gabriela Torres,IL,Iris Solorzano,Terminated,3,Gold,484.31,Rosebud,06-01-2026,06-30-2026,,,30,90,40.5,49.5
+IL-164,Carlos Valenzuela,IL,Anselmo Urrutia,Active,4,Silver,390.16,Molino,01-01-2026,,,,15,60,27.0,33.0
+IL-165,Sofia Alvarez,IL,Anselmo Urrutia,Active,1,Gold,116.76,Americano Health,06-01-2026,,,,10,10,4.5,5.5
+IL-166,Ricardo Chavez,IL,Anselmo Urrutia,Pipeline Expired,4,Bronze,154.92,Molino,02-01-2026,04-30-2026,04-17-2026,,15,60,27.0,33.0
+IL-167,Isabella Herrera,IL,Anselmo Urrutia,Active,2,Gold,224.51,Panorama,02-01-2026,,,,12,24,10.8,13.2
+MI-101,Nicolas Ruiz,MI,Nancy Ramirez,Pipeline Expired,1,Bronze,24.52,Gecko,03-01-2026,05-31-2026,05-15-2026,,10,10,4.5,5.5
+MI-102,Andres Miranda,MI,Miguel Ledezma,Active,1,Bronze,244.79,Molino,02-01-2026,,,,15,15,6.75,8.25
+MI-103,Isabella Rodriguez,MI,Anselmo Urrutia,Active,2,Gold,285.77,Rosebud,02-01-2026,,,,30,60,27.0,33.0
+MI-104,Valentina Lopez,MI,Anselmo Urrutia,Active,1,Gold,364.33,First Aid,04-01-2026,,,,26,26,11.7,14.3
+MI-105,Laura Miranda,MI,Marisol Parra,Pipeline Expired,1,Gold,452.21,Wellhub,04-01-2026,06-30-2026,06-15-2026,,15,15,6.75,8.25
+MI-106,Javier Marin,MI,Azul Perez,Active,1,Silver,61.42,Americano Health,02-01-2026,,,,10,10,4.5,5.5
+MI-107,Pedro Rios,MI,Miguel Ledezma,Terminated,3,Gold,474.26,Molino,05-01-2026,06-30-2026,,,15,45,20.25,24.75
+MI-108,Victoria Jimenez,MI,Marisol Parra,Pipeline,1,Gold,178.18,First Aid,04-01-2026,,07-05-2026,Missing Documents,26,26,11.7,14.3
+MI-109,Daniela Medina,MI,Iris Solorzano,Active,3,Bronze,82.72,Gecko,03-01-2026,,,,10,30,13.5,16.5
+MI-110,Ana Diaz,MI,Marisol Parra,Terminated,4,Silver,328.02,First Aid,05-01-2026,06-30-2026,,,26,104,46.8,57.2
+MI-111,Alejandro Rios,MI,Azul Perez,Active,1,Gold,185.64,Molino,05-01-2026,,,,15,15,6.75,8.25
+MI-112,Nicolas Benitez,MI,Miguel Ledezma,Pipeline,1,Bronze,336.56,Rosebud,06-01-2026,,08-15-2026,Missing Payment,30,30,13.5,16.5
+MI-113,Ana Romero,MI,Iris Solorzano,Pipeline Expired,2,Silver,125.93,First Aid,02-01-2026,05-31-2026,05-07-2026,,26,52,23.4,28.6
+MI-114,Valentina Tovar,MI,Iris Solorzano,Active,2,Silver,184.76,First Aid,05-01-2026,,,,26,52,23.4,28.6
+MI-115,Martina Suarez,MI,Nancy Ramirez,Pipeline Expired,3,Silver,282.39,Belgrano,04-01-2026,06-30-2026,06-15-2026,,20,60,27.0,33.0
+MI-116,Santiago Ortiz,MI,Nancy Ramirez,Pipeline Expired,4,Bronze,161.54,Azure,01-01-2026,03-31-2026,03-17-2026,,25,100,45.0,55.0
+MI-117,Andrea Herrera,MI,Anselmo Urrutia,Active,1,Gold,40.6,Americano Health,05-01-2026,,,,10,10,4.5,5.5
+MI-118,Andres Rodriguez,MI,Anselmo Urrutia,Terminated,1,Bronze,144.34,Gecko,01-01-2026,04-30-2026,,,10,10,4.5,5.5
+MI-119,Sara Rojas,MI,Miguel Ledezma,Active,4,Silver,334.91,Rosebud,01-01-2026,,,,30,120,54.0,66.0
+MI-120,Fernando Castro,MI,Marisol Parra,Active,1,Bronze,3.29,Panorama,05-01-2026,,,,12,12,5.4,6.6
+MI-121,Sofia Torres,MI,Nancy Ramirez,Active,1,Gold,177.38,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+MI-122,Sebastian Herrera,MI,Miguel Ledezma,Active,1,Gold,212.99,Panorama,03-01-2026,,,,12,12,5.4,6.6
+MI-123,Manuel Ramos,MI,Miguel Ledezma,Terminated,3,Silver,250.95,Rosebud,02-01-2026,06-30-2026,,,30,90,40.5,49.5
+MI-124,Santiago Valenzuela,MI,Nancy Ramirez,Active,1,Gold,169.09,Gecko,03-01-2026,,,,10,10,4.5,5.5
+MI-125,Camila Marin,MI,Nancy Ramirez,Active,1,Gold,177.47,Molino,03-01-2026,,,,15,15,6.75,8.25
+MI-126,Jorge Perez,MI,Miguel Ledezma,Active,3,Silver,261.22,Molino,03-01-2026,,,,15,45,20.25,24.75
+MI-127,Lucas Tovar,MI,Miguel Ledezma,Pipeline Expired,1,Bronze,462.22,Belgrano,01-01-2026,03-31-2026,03-17-2026,,20,20,9.0,11.0
+MI-128,Mariana Martinez,MI,Marisol Parra,Active,1,Silver,351.89,Molino,01-01-2026,,,,15,15,6.75,8.25
+MI-129,Paula Ruiz,MI,Azul Perez,Active,3,Bronze,110.54,Gecko,06-01-2026,,,,10,30,13.5,16.5
+MI-130,Jorge Mendoza,MI,Marisol Parra,Terminated,1,Silver,279.97,Gecko,02-01-2026,02-28-2026,,,10,10,4.5,5.5
+MI-131,Pedro Herrera,MI,Mario Gomez,Active,1,Bronze,8.62,First Aid,06-01-2026,,,,26,26,11.7,14.3
+MI-132,Fernando Morales,MI,Iris Solorzano,Terminated,1,Silver,48.69,Belgrano,06-01-2026,06-30-2026,,,20,20,9.0,11.0
+MI-133,Lucia Tovar,MI,Anselmo Urrutia,Active,1,Gold,347.84,Gecko,05-01-2026,,,,10,10,4.5,5.5
+MI-134,David Morales,MI,Azul Perez,Active,1,Bronze,21.19,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+MI-135,Alejandro Nunez,MI,Azul Perez,Active,2,Gold,237.74,Panorama,05-01-2026,,,,12,24,10.8,13.2
+MI-136,Natalia Valenzuela,MI,Marisol Parra,Active,1,Gold,171.95,Belgrano,04-01-2026,,,,20,20,9.0,11.0
+MI-137,David Jimenez,MI,Nancy Ramirez,Active,3,Silver,276.09,Wellhub,04-01-2026,,,,15,45,20.25,24.75
+MI-138,Manuel Rios,MI,Nancy Ramirez,Terminated,3,Bronze,78.4,Molino,01-01-2026,01-31-2026,,,15,45,20.25,24.75
+MI-139,Nicolas Medina,MI,Arturo Rios,Pipeline,2,Bronze,64.31,Panorama,06-01-2026,,09-04-2026,Missing Payment,12,24,10.8,13.2
+MI-140,Valentina Rios,MI,Miguel Ledezma,Active,4,Gold,581.64,Panorama,03-01-2026,,,,12,48,21.6,26.4
+MI-141,Daniela Medina,MI,Mario Gomez,Terminated,2,Bronze,42.0,Molino,01-01-2026,06-30-2026,,,15,30,13.5,16.5
+MI-142,Lucia Torres,MI,Marisol Parra,Active,2,Bronze,66.74,Belgrano,02-01-2026,,,,20,40,18.0,22.0
+MI-143,Lucia Miranda,MI,Azul Perez,Active,1,Silver,58.53,First Aid,04-01-2026,,,,26,26,11.7,14.3
+MI-144,Maria Lopez,MI,Arturo Rios,Active,1,Gold,353.62,Gecko,06-01-2026,,,,10,10,4.5,5.5
+MI-145,Valentina Gutierrez,MI,Anselmo Urrutia,Pipeline,2,Silver,128.39,Americano Health,06-01-2026,,09-04-2026,Missing Documents,10,20,9.0,11.0
+MI-146,Fernando Castro,MI,Miguel Ledezma,Pipeline Expired,1,Bronze,115.91,Rosebud,02-01-2026,04-30-2026,04-17-2026,,30,30,13.5,16.5
+MI-147,Carlos Tovar,MI,Iris Solorzano,Active,2,Gold,204.597,Panorama,05-01-2026,,,,12,24,10.8,13.2
+MI-148,Javier Mendoza,MI,Nancy Ramirez,Active,1,Gold,193.38,Gecko,04-01-2026,,,,10,10,4.5,5.5
+MI-149,Daniel Acosta,MI,Mario Gomez,Active,1,Bronze,18.47,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+MI-150,Fernando Romero,MI,Mario Gomez,Active,2,Gold,208.67,Azure,06-01-2026,,,,25,50,22.5,27.5
+MI-151,Isabella Romero,MI,Marisol Parra,Active,2,Silver,144.57,Belgrano,06-01-2026,,,,20,40,18.0,22.0
+MI-152,David Aguilar,MI,Anselmo Urrutia,Active,4,Bronze,149.48,Wellhub,02-01-2026,,,,15,60,27.0,33.0
+MI-153,Jorge Infante,MI,Nancy Ramirez,Active,2,Bronze,67.8,Gecko,02-01-2026,,,,10,20,9.0,11.0
+MI-154,Laura Castro,MI,Iris Solorzano,Active,1,Bronze,1.38,Americano Health,01-01-2026,,,,10,10,4.5,5.5
+MI-155,Maria Morales,MI,Miguel Ledezma,Active,1,Gold,185.33,Gecko,03-01-2026,,,,10,10,4.5,5.5
+MI-156,Sara Ortiz,MI,Anselmo Urrutia,Active,3,Gold,490.32,First Aid,02-01-2026,,,,26,78,35.1,42.9
+MI-157,Ricardo Chavez,MI,Arturo Rios,Active,4,Bronze,150.52,Panorama,06-01-2026,,,,12,48,21.6,26.4
+MI-158,Natalia Ledesma,MI,Miguel Ledezma,Active,2,Gold,232.77,Gecko,03-01-2026,,,,10,20,9.0,11.0
+MI-159,Valentina Medina,MI,Nancy Ramirez,Terminated,1,Bronze,244.8,Azure,05-01-2026,05-31-2026,,,25,25,11.25,13.75
+MI-160,Santiago Infante,MI,Arturo Rios,Active,3,Silver,230.55,Gecko,04-01-2026,,,,10,30,13.5,16.5
+MI-161,Pedro Perez,MI,Nancy Ramirez,Active,2,Gold,342.88,Wellhub,06-01-2026,,,,15,30,13.5,16.5
+MI-162,Martina Infante,MI,Miguel Ledezma,Pipeline,1,Gold,159.07,Belgrano,06-01-2026,,09-04-2026,Missing Payment,20,20,9.0,11.0
+MI-163,Ricardo Gonzalez,MI,Iris Solorzano,Active,3,Silver,203.28,Americano Health,01-01-2026,,,,10,30,13.5,16.5
+MI-164,Paula Morales,MI,Mario Gomez,Terminated,3,Bronze,108.44,Belgrano,02-01-2026,05-31-2026,,,20,60,27.0,33.0
+MI-165,Sebastian Castro,MI,Marisol Parra,Active,2,Silver,170.27,First Aid,04-01-2026,,,,26,52,23.4,28.6
+MI-166,Sara Alvarez,MI,Nancy Ramirez,Active,3,Bronze,99.07,Gecko,05-01-2026,,,,10,30,13.5,16.5
+MI-167,Andrea Perez,MI,Arturo Rios,Active,2,Silver,117.65,Belgrano,01-01-2026,,,,20,40,18.0,22.0
+MI-168,Lucas Gutierrez,MI,Arturo Rios,Active,4,Bronze,168.59,Americano Health,02-01-2026,,,,10,40,18.0,22.0
+MI-169,Luis Benitez,MI,Nancy Ramirez,Active,3,Gold,366.45,Azure,02-01-2026,,,,25,75,33.75,41.25
+MI-170,Maria Jimenez,MI,Mario Gomez,Pipeline Expired,2,Silver,166.33,Azure,03-01-2026,06-30-2026,06-04-2026,,25,50,22.5,27.5
+MI-171,Daniel Marin,MI,Mario Gomez,Active,1,Bronze,223.66,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+MI-172,Mateo Suarez,MI,Nancy Ramirez,Active,1,Silver,146.4,Panorama,05-01-2026,,,,12,12,5.4,6.6
+MI-173,Isabella Morales,MI,Anselmo Urrutia,Pipeline Expired,1,Silver,8.84,Belgrano,02-01-2026,05-31-2026,05-07-2026,,20,20,9.0,11.0
+MI-174,Santiago Gomez,MI,Mario Gomez,Active,1,Silver,70.72,Panorama,02-01-2026,,,,12,12,5.4,6.6
+MI-175,Andres Fernandez,MI,Nancy Ramirez,Active,1,Silver,64.52,Panorama,06-01-2026,,,,12,12,5.4,6.6
+MI-176,Jorge Silva,MI,Mario Gomez,Active,3,Gold,390.03,Rosebud,06-01-2026,,,,30,90,40.5,49.5
+MI-177,Laura Torres,MI,Anselmo Urrutia,Terminated,4,Bronze,131.978,First Aid,06-01-2026,06-30-2026,,,26,104,46.8,57.2
+MI-178,David Ortiz,MI,Marisol Parra,Active,2,Gold,307.84,Belgrano,03-01-2026,,,,20,40,18.0,22.0
+MI-179,Elena Castro,MI,Nancy Ramirez,Terminated,3,Bronze,113.81,Azure,02-01-2026,05-31-2026,,,25,75,33.75,41.25
+MI-180,Camila Marin,MI,Mario Gomez,Pipeline Expired,1,Gold,76.84,Molino,01-01-2026,03-31-2026,03-17-2026,,15,15,6.75,8.25
+MI-181,Mariana Benitez,MI,Anselmo Urrutia,Active,1,Silver,69.47,Azure,03-01-2026,,,,25,25,11.25,13.75
+MI-182,Natalia Morales,MI,Arturo Rios,Active,1,Gold,277.44,Americano Health,03-01-2026,,,,10,10,4.5,5.5
+MI-183,Mateo Ledesma,MI,Anselmo Urrutia,Pipeline Expired,2,Silver,142.68,Panorama,01-01-2026,04-30-2026,04-06-2026,,12,24,10.8,13.2
+MI-184,Lucia Martinez,MI,Azul Perez,Pipeline Expired,1,Bronze,0.91,First Aid,03-01-2026,06-30-2026,06-04-2026,,26,26,11.7,14.3
+MI-185,Pedro Nunez,MI,Marisol Parra,Active,1,Bronze,3.609,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+MI-186,Andres Ortiz,MI,Azul Perez,Pipeline,2,Gold,318.02,Americano Health,05-01-2026,,08-04-2026,Missing Documents,10,20,9.0,11.0
+MI-187,Natalia Miranda,MI,Iris Solorzano,Terminated,1,Silver,95.15,First Aid,04-01-2026,04-30-2026,,,26,26,11.7,14.3
+MO-101,Sara Nunez,MO,Arturo Rios,Active,4,Silver,387.75,Rosebud,06-01-2026,,,,30,120,54.0,66.0
+MO-102,Camila Rodriguez,MO,Mario Gomez,Active,3,Silver,200.43,First Aid,06-01-2026,,,,26,78,35.1,42.9
+MO-103,Luis Sanchez,MO,Azul Perez,Terminated,4,Bronze,168.46,Wellhub,03-01-2026,06-30-2026,,,15,60,27.0,33.0
+MO-104,Santiago Ruiz,MO,Marisol Parra,Active,2,Bronze,60.61,Wellhub,06-01-2026,,,,15,30,13.5,16.5
+MO-105,Gabriela Ortiz,MO,Nancy Ramirez,Active,2,Bronze,31.04,Gecko,06-01-2026,,,,10,20,9.0,11.0
+MO-106,Alejandro Sanchez,MO,Miguel Ledezma,Active,1,Gold,53.36,Belgrano,02-01-2026,,,,20,20,9.0,11.0
+MO-107,Diego Torres,MO,Iris Solorzano,Active,3,Bronze,116.31,Rosebud,04-01-2026,,,,30,90,40.5,49.5
+MO-108,Luis Mendoza,MO,Mario Gomez,Pipeline Expired,3,Bronze,116.88,Belgrano,04-01-2026,06-30-2026,06-15-2026,,20,60,27.0,33.0
+MO-109,Daniela Vargas,MO,Nancy Ramirez,Pipeline Expired,1,Gold,482.35,Wellhub,03-01-2026,05-31-2026,05-15-2026,,15,15,6.75,8.25
+MO-110,Manuel Castro,MO,Mario Gomez,Active,3,Bronze,121.55,First Aid,03-01-2026,,,,26,78,35.1,42.9
+MO-111,Fernando Diaz,MO,Arturo Rios,Terminated,1,Gold,133.84,Americano Health,06-01-2026,06-30-2026,,,10,10,4.5,5.5
+MO-112,Maria Lopez,MO,Iris Solorzano,Pipeline Expired,2,Silver,193.64,Rosebud,03-01-2026,05-31-2026,05-15-2026,,30,60,27.0,33.0
+MO-113,Natalia Lopez,MO,Marisol Parra,Active,3,Bronze,112.46,Americano Health,04-01-2026,,,,10,30,13.5,16.5
+MO-114,Paula Diaz,MO,Mario Gomez,Active,4,Bronze,149.25,Wellhub,06-01-2026,,,,15,60,27.0,33.0
+MO-115,Mariana Rodriguez,MO,Anselmo Urrutia,Active,4,Gold,641.56,Azure,03-01-2026,,,,25,100,45.0,55.0
+MO-116,Paula Medina,MO,Iris Solorzano,Pipeline,1,Bronze,234.84,First Aid,06-01-2026,,09-04-2026,Missing Documents,26,26,11.7,14.3
+MO-117,Lucia Flores,MO,Nancy Ramirez,Active,1,Bronze,5.71,Azure,04-01-2026,,,,25,25,11.25,13.75
+MO-118,Laura Tovar,MO,Azul Perez,Active,1,Bronze,252.04,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+MO-119,Gabriela Infante,MO,Azul Perez,Active,2,Gold,288.56,Rosebud,04-01-2026,,,,30,60,27.0,33.0
+MO-120,Mateo Chavez,MO,Mario Gomez,Active,1,Bronze,151.67,Molino,01-01-2026,,,,15,15,6.75,8.25
+MO-121,Victoria Mendoza,MO,Iris Solorzano,Active,1,Bronze,422.21,First Aid,04-01-2026,,,,26,26,11.7,14.3
+MO-122,Valentina Morales,MO,Marisol Parra,Active,1,Gold,176.46,Panorama,03-01-2026,,,,12,12,5.4,6.6
+MO-123,Gabriela Jimenez,MO,Arturo Rios,Terminated,4,Bronze,145.06,Gecko,06-01-2026,06-30-2026,,,10,40,18.0,22.0
+MO-124,Ana Lopez,MO,Arturo Rios,Active,1,Gold,370.58,Gecko,02-01-2026,,,,10,10,4.5,5.5
+MO-125,Diego Morales,MO,Mario Gomez,Pipeline Expired,1,Bronze,83.32,Belgrano,02-01-2026,04-30-2026,04-17-2026,,20,20,9.0,11.0
+MO-126,Fernando Medina,MO,Mario Gomez,Terminated,3,Silver,288.97,Wellhub,04-01-2026,05-31-2026,,,15,45,20.25,24.75
+MO-127,Elena Jimenez,MO,Mario Gomez,Active,4,Gold,607.32,Rosebud,02-01-2026,,,,30,120,54.0,66.0
+MO-128,Carlos Jimenez,MO,Nancy Ramirez,Active,1,Gold,273.6,Belgrano,06-01-2026,,,,20,20,9.0,11.0
+MO-129,Miguel Valenzuela,MO,Marisol Parra,Terminated,2,Silver,141.0,Molino,06-01-2026,06-30-2026,,,15,30,13.5,16.5
+MO-130,Andres Acosta,MO,Miguel Ledezma,Active,4,Bronze,154.11,Rosebud,01-01-2026,,,,30,120,54.0,66.0
+MO-131,Lucia Rios,MO,Azul Perez,Terminated,3,Bronze,80.92,Rosebud,03-01-2026,03-31-2026,,,30,90,40.5,49.5
+MO-132,Camila Rios,MO,Marisol Parra,Terminated,1,Silver,405.16,Gecko,06-01-2026,06-30-2026,,,10,10,4.5,5.5
+MO-133,Lucas Diaz,MO,Arturo Rios,Active,1,Gold,167.73,Azure,06-01-2026,,,,25,25,11.25,13.75
+MO-134,Sebastian Ramos,MO,Nancy Ramirez,Terminated,1,Silver,71.07,Rosebud,04-01-2026,05-31-2026,,,30,30,13.5,16.5
+MO-135,Alejandro Gonzalez,MO,Anselmo Urrutia,Pipeline Expired,3,Gold,391.58,Wellhub,03-01-2026,05-31-2026,05-15-2026,,15,45,20.25,24.75
+MO-136,Andrea Gutierrez,MO,Arturo Rios,Active,1,Silver,58.91,Molino,03-01-2026,,,,15,15,6.75,8.25
+MO-137,Paula Perez,MO,Mario Gomez,Active,1,Bronze,7.95,Azure,03-01-2026,,,,25,25,11.25,13.75
+MO-138,Jose Infante,MO,Iris Solorzano,Active,3,Gold,439.51,Gecko,06-01-2026,,,,10,30,13.5,16.5
+MO-139,Manuel Morales,MO,Nancy Ramirez,Terminated,3,Bronze,77.77,Belgrano,02-01-2026,04-30-2026,,,20,60,27.0,33.0
+MO-140,Mariana Flores,MO,Anselmo Urrutia,Pipeline,1,Gold,159.6,Belgrano,06-01-2026,,08-15-2026,Missing Payment,20,20,9.0,11.0
+MO-141,Sebastian Rios,MO,Marisol Parra,Active,1,Silver,54.35,Belgrano,06-01-2026,,,,20,20,9.0,11.0
+MO-142,Diego Benitez,MO,Nancy Ramirez,Active,3,Gold,413.67,Americano Health,02-01-2026,,,,10,30,13.5,16.5
+MO-143,Isabella Ortiz,MO,Anselmo Urrutia,Terminated,3,Bronze,120.11,Molino,05-01-2026,06-30-2026,,,15,45,20.25,24.75
+MO-144,Natalia Gutierrez,MO,Miguel Ledezma,Pipeline,3,Gold,432.72,Wellhub,04-01-2026,,07-05-2026,Missing Payment,15,45,20.25,24.75
+MO-145,Elena Medina,MO,Mario Gomez,Terminated,4,Gold,560.43,Azure,03-01-2026,06-30-2026,,,25,100,45.0,55.0
+MO-146,Carlos Gomez,MO,Anselmo Urrutia,Pipeline,1,Bronze,303.02,Molino,04-01-2026,,07-05-2026,Missing Payment,15,15,6.75,8.25
+MO-147,Andrea Medina,MO,Azul Perez,Active,4,Bronze,129.16,Molino,04-01-2026,,,,15,60,27.0,33.0
+MO-148,Elena Rios,MO,Anselmo Urrutia,Active,2,Gold,237.63,Wellhub,05-01-2026,,,,15,30,13.5,16.5
+MO-149,Gabriela Ledesma,MO,Mario Gomez,Pipeline Expired,2,Gold,340.76,Gecko,01-01-2026,03-31-2026,03-17-2026,,10,20,9.0,11.0
+MO-150,Santiago Rodriguez,MO,Azul Perez,Pipeline Expired,1,Bronze,0.31,Azure,02-01-2026,05-31-2026,05-07-2026,,25,25,11.25,13.75
+MO-151,Mariana Infante,MO,Azul Perez,Active,3,Silver,251.7,Wellhub,05-01-2026,,,,15,45,20.25,24.75
+MO-152,Victoria Acosta,MO,Mario Gomez,Active,2,Gold,249.86,Gecko,04-01-2026,,,,10,20,9.0,11.0
+MO-153,Valentina Alvarez,MO,Nancy Ramirez,Active,1,Bronze,85.77,Panorama,01-01-2026,,,,12,12,5.4,6.6
+MO-154,David Ortiz,MO,Anselmo Urrutia,Pipeline Expired,4,Gold,589.61,Panorama,01-01-2026,04-30-2026,04-06-2026,,12,48,21.6,26.4
+MO-155,Mariana Torres,MO,Mario Gomez,Pipeline Expired,3,Bronze,87.34,Molino,04-01-2026,06-30-2026,06-15-2026,,15,45,20.25,24.75
+MO-156,Jorge Gomez,MO,Nancy Ramirez,Active,1,Bronze,10.5,Azure,05-01-2026,,,,25,25,11.25,13.75
+MO-157,Sara Gutierrez,MO,Nancy Ramirez,Terminated,3,Silver,249.96,Americano Health,01-01-2026,04-30-2026,,,10,30,13.5,16.5
+MO-158,Sebastian Valenzuela,MO,Nancy Ramirez,Active,1,Gold,124.09,Azure,05-01-2026,,,,25,25,11.25,13.75
+MO-159,Miguel Marin,MO,Marisol Parra,Active,1,Bronze,270.48,First Aid,02-01-2026,,,,26,26,11.7,14.3
+MO-160,Jose Mendoza,MO,Arturo Rios,Active,1,Bronze,64.12,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+MO-161,Sara Gomez,MO,Miguel Ledezma,Active,1,Bronze,425.31,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+MO-162,Sofia Castro,MO,Azul Perez,Active,1,Bronze,194.19,Azure,06-01-2026,,,,25,25,11.25,13.75
+MO-163,Claudia Fernandez,MO,Arturo Rios,Terminated,4,Silver,378.07,Rosebud,03-01-2026,05-31-2026,,,30,120,54.0,66.0
+MO-164,Paula Lopez,MO,Marisol Parra,Terminated,4,Gold,641.99,First Aid,03-01-2026,03-31-2026,,,26,104,46.8,57.2
+MO-165,Nicolas Aguilar,MO,Iris Solorzano,Active,1,Gold,458.85,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+MO-166,Sara Vargas,MO,Mario Gomez,Active,4,Silver,353.3,Azure,03-01-2026,,,,25,100,45.0,55.0
+MO-167,David Vargas,MO,Arturo Rios,Pipeline Expired,4,Gold,542.74,Belgrano,03-01-2026,05-31-2026,05-15-2026,,20,80,36.0,44.0
+MO-168,Diego Valenzuela,MO,Anselmo Urrutia,Pipeline Expired,2,Bronze,48.74,Azure,01-01-2026,03-31-2026,03-17-2026,,25,50,22.5,27.5
+MO-169,Nicolas Herrera,MO,Arturo Rios,Active,4,Bronze,129.63,Americano Health,04-01-2026,,,,10,40,18.0,22.0
+MO-170,Camila Alvarez,MO,Marisol Parra,Terminated,4,Bronze,161.07,Belgrano,06-01-2026,06-30-2026,,,20,80,36.0,44.0
+MO-171,Santiago Infante,MO,Iris Solorzano,Active,2,Silver,156.19,Wellhub,03-01-2026,,,,15,30,13.5,16.5
+NC-101,Jorge Mendoza,NC,Marisol Parra,Active,4,Bronze,152.99,Molino,01-01-2026,,,,15,60,27.0,33.0
+NC-102,Sara Diaz,NC,Nancy Ramirez,Active,1,Gold,10.67,Americano Health,05-01-2026,,,,10,10,4.5,5.5
+NC-103,Luis Vargas,NC,Marisol Parra,Active,3,Silver,257.2,Belgrano,03-01-2026,,,,20,60,27.0,33.0
+NC-104,Paula Marin,NC,Miguel Ledezma,Active,1,Gold,193.92,Panorama,06-01-2026,,,,12,12,5.4,6.6
+NC-105,Martina Herrera,NC,Azul Perez,Active,3,Silver,233.9,Wellhub,02-01-2026,,,,15,45,20.25,24.75
+NC-106,Camila Sanchez,NC,Mario Gomez,Active,2,Gold,319.87,First Aid,03-01-2026,,,,26,52,23.4,28.6
+NC-107,Claudia Sanchez,NC,Miguel Ledezma,Active,3,Silver,259.78,Americano Health,01-01-2026,,,,10,30,13.5,16.5
+NC-108,Andres Gutierrez,NC,Nancy Ramirez,Active,1,Gold,167.36,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+NC-109,Maria Garcia,NC,Marisol Parra,Active,1,Bronze,181.38,First Aid,03-01-2026,,,,26,26,11.7,14.3
+NC-110,Sebastian Diaz,NC,Miguel Ledezma,Active,4,Silver,320.67,Azure,06-01-2026,,,,25,100,45.0,55.0
+NC-111,Nicolas Torres,NC,Nancy Ramirez,Active,1,Bronze,437.49,Azure,02-01-2026,,,,25,25,11.25,13.75
+NC-112,Valentina Perez,NC,Marisol Parra,Active,3,Bronze,117.67,Gecko,02-01-2026,,,,10,30,13.5,16.5
+NC-113,Pedro Chavez,NC,Arturo Rios,Active,1,Gold,68.24,Gecko,01-01-2026,,,,10,10,4.5,5.5
+NC-114,Juan Gutierrez,NC,Mario Gomez,Active,1,Gold,166.57,Gecko,05-01-2026,,,,10,10,4.5,5.5
+NC-115,Fernando Mendoza,NC,Arturo Rios,Terminated,1,Gold,159.3,Rosebud,03-01-2026,03-31-2026,,,30,30,13.5,16.5
+NC-116,Carlos Romero,NC,Arturo Rios,Active,2,Bronze,38.84,Azure,02-01-2026,,,,25,50,22.5,27.5
+NC-117,Valentina Gutierrez,NC,Miguel Ledezma,Active,2,Bronze,30.97,First Aid,01-01-2026,,,,26,52,23.4,28.6
+NC-118,Daniela Alvarez,NC,Miguel Ledezma,Active,3,Gold,460.99,Azure,06-01-2026,,,,25,75,33.75,41.25
+NC-119,Juan Jimenez,NC,Anselmo Urrutia,Pipeline,2,Gold,344.62,First Aid,06-01-2026,,08-15-2026,Missing Payment,26,52,23.4,28.6
+NC-120,Santiago Herrera,NC,Miguel Ledezma,Terminated,4,Silver,368.2,Rosebud,03-01-2026,04-30-2026,,,30,120,54.0,66.0
+NC-121,Luis Garcia,NC,Marisol Parra,Active,4,Gold,626.14,Gecko,03-01-2026,,,,10,40,18.0,22.0
+NC-122,Natalia Marin,NC,Mario Gomez,Active,1,Bronze,17.01,Gecko,05-01-2026,,,,10,10,4.5,5.5
+NC-123,Mariana Acosta,NC,Marisol Parra,Active,1,Gold,210.68,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+NC-124,Miguel Gutierrez,NC,Iris Solorzano,Active,4,Gold,561.41,Azure,03-01-2026,,,,25,100,45.0,55.0
+NC-125,Daniela Ortiz,NC,Miguel Ledezma,Terminated,1,Silver,64.99,Wellhub,05-01-2026,05-31-2026,,,15,15,6.75,8.25
+NC-126,Ana Medina,NC,Nancy Ramirez,Active,1,Silver,57.57,First Aid,04-01-2026,,,,26,26,11.7,14.3
+NC-127,Elena Ramos,NC,Marisol Parra,Active,2,Bronze,47.75,Gecko,04-01-2026,,,,10,20,9.0,11.0
+NC-128,Jose Marin,NC,Miguel Ledezma,Active,1,Bronze,203.73,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+NC-129,Camila Aguilar,NC,Miguel Ledezma,Active,4,Gold,567.76,First Aid,05-01-2026,,,,26,104,46.8,57.2
+NC-130,Andres Ortiz,NC,Anselmo Urrutia,Pipeline,3,Bronze,77.19,Gecko,04-01-2026,,07-05-2026,Missing Documents,10,30,13.5,16.5
+NC-131,Diego Aguilar,NC,Iris Solorzano,Active,3,Bronze,121.07,Panorama,02-01-2026,,,,12,36,16.2,19.8
+NC-132,Gabriela Martinez,NC,Miguel Ledezma,Active,1,Bronze,24.89,First Aid,05-01-2026,,,,26,26,11.7,14.3
+NC-133,Lucia Romero,NC,Iris Solorzano,Active,3,Gold,391.75,Wellhub,04-01-2026,,,,15,45,20.25,24.75
+NC-134,Laura Gomez,NC,Miguel Ledezma,Active,2,Silver,112.6,First Aid,03-01-2026,,,,26,52,23.4,28.6
+NC-135,Javier Suarez,NC,Iris Solorzano,Pipeline Expired,1,Gold,117.34,Panorama,01-01-2026,04-30-2026,04-06-2026,,12,12,5.4,6.6
+NC-136,Valentina Tovar,NC,Iris Solorzano,Terminated,4,Gold,606.36,Wellhub,05-01-2026,05-31-2026,,,15,60,27.0,33.0
+NC-137,Isabella Fernandez,NC,Miguel Ledezma,Pipeline Expired,4,Gold,623.18,First Aid,01-01-2026,04-30-2026,04-06-2026,,26,104,46.8,57.2
+NC-138,Isabella Ledesma,NC,Anselmo Urrutia,Pipeline Expired,1,Bronze,2.27,Americano Health,01-01-2026,04-30-2026,04-06-2026,,10,10,4.5,5.5
+NC-139,Mariana Morales,NC,Arturo Rios,Terminated,2,Gold,225.41,First Aid,06-01-2026,06-30-2026,,,26,52,23.4,28.6
+NC-140,Miguel Gomez,NC,Miguel Ledezma,Active,1,Silver,98.37,First Aid,04-01-2026,,,,26,26,11.7,14.3
+NC-141,Sebastian Flores,NC,Miguel Ledezma,Active,4,Gold,582.98,Gecko,04-01-2026,,,,10,40,18.0,22.0
+NC-142,Sofia Infante,NC,Marisol Parra,Active,1,Bronze,198.37,Panorama,03-01-2026,,,,12,12,5.4,6.6
+NC-143,Elena Torres,NC,Iris Solorzano,Pipeline,1,Silver,235.54,Azure,05-01-2026,,08-04-2026,Missing Documents,25,25,11.25,13.75
+NC-144,Maria Ledesma,NC,Miguel Ledezma,Active,3,Silver,237.13,Belgrano,02-01-2026,,,,20,60,27.0,33.0
+NC-145,Sara Miranda,NC,Azul Perez,Active,1,Bronze,10.18,Belgrano,04-01-2026,,,,20,20,9.0,11.0
+NC-146,Isabella Nunez,NC,Miguel Ledezma,Active,1,Silver,41.86,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+NC-147,Sofia Marin,NC,Anselmo Urrutia,Active,4,Gold,641.9,Wellhub,06-01-2026,,,,15,60,27.0,33.0
+NC-148,Jose Acosta,NC,Azul Perez,Terminated,1,Bronze,257.01,Rosebud,01-01-2026,01-31-2026,,,30,30,13.5,16.5
+NC-149,Daniela Castro,NC,Marisol Parra,Active,2,Silver,197.73,Americano Health,04-01-2026,,,,10,20,9.0,11.0
+NC-150,Andrea Rios,NC,Nancy Ramirez,Active,4,Gold,551.83,Rosebud,04-01-2026,,,,30,120,54.0,66.0
+NC-151,Victoria Herrera,NC,Marisol Parra,Active,2,Gold,340.32,Gecko,03-01-2026,,,,10,20,9.0,11.0
+NC-152,Manuel Perez,NC,Mario Gomez,Active,1,Bronze,14.39,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+NC-153,Ana Castro,NC,Anselmo Urrutia,Active,1,Silver,474.28,Panorama,06-01-2026,,,,12,12,5.4,6.6
+NC-154,Sebastian Nunez,NC,Anselmo Urrutia,Pipeline Expired,3,Silver,266.26,Gecko,02-01-2026,05-31-2026,05-07-2026,,10,30,13.5,16.5
+NC-155,Natalia Ledesma,NC,Marisol Parra,Active,1,Bronze,16.79,Americano Health,03-01-2026,,,,10,10,4.5,5.5
+NC-156,Claudia Alvarez,NC,Marisol Parra,Pipeline,1,Gold,191.33,Americano Health,05-01-2026,,07-15-2026,Missing Payment,10,10,4.5,5.5
+NC-157,Mariana Rojas,NC,Miguel Ledezma,Pipeline Expired,1,Gold,159.19,Americano Health,02-01-2026,05-31-2026,05-07-2026,,10,10,4.5,5.5
+NC-158,Mariana Gutierrez,NC,Nancy Ramirez,Active,1,Gold,172.9,Gecko,05-01-2026,,,,10,10,4.5,5.5
+NC-159,Jorge Flores,NC,Mario Gomez,Active,2,Gold,279.06,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+NC-160,Miguel Castro,NC,Arturo Rios,Active,1,Bronze,11.21,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+NC-161,Paula Gonzalez,NC,Nancy Ramirez,Terminated,2,Gold,348.61,Wellhub,02-01-2026,05-31-2026,,,15,30,13.5,16.5
+NC-162,Fernando Alvarez,NC,Anselmo Urrutia,Active,1,Silver,451.74,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+NC-163,Paula Suarez,NC,Azul Perez,Active,4,Silver,339.92,Azure,04-01-2026,,,,25,100,45.0,55.0
+NC-164,Andrea Rojas,NC,Arturo Rios,Active,2,Bronze,33.7,First Aid,06-01-2026,,,,26,52,23.4,28.6
+NC-165,Isabella Medina,NC,Azul Perez,Terminated,2,Silver,180.23,Gecko,04-01-2026,04-30-2026,,,10,20,9.0,11.0
+NC-166,Daniel Miranda,NC,Miguel Ledezma,Active,3,Silver,295.77,First Aid,04-01-2026,,,,26,78,35.1,42.9
+NC-167,Camila Mendoza,NC,Arturo Rios,Active,4,Bronze,148.91,Azure,05-01-2026,,,,25,100,45.0,55.0
+NC-168,David Chavez,NC,Mario Gomez,Pipeline Expired,1,Silver,69.51,Americano Health,01-01-2026,03-31-2026,03-17-2026,,10,10,4.5,5.5
+NC-169,Santiago Sanchez,NC,Nancy Ramirez,Pipeline Expired,1,Silver,55.05,Rosebud,01-01-2026,03-31-2026,03-17-2026,,30,30,13.5,16.5
+NC-170,Natalia Ledesma,NC,Nancy Ramirez,Active,1,Gold,173.06,Belgrano,03-01-2026,,,,20,20,9.0,11.0
+NC-171,Natalia Tovar,NC,Iris Solorzano,Pipeline Expired,2,Gold,322.99,Americano Health,01-01-2026,03-31-2026,03-17-2026,,10,20,9.0,11.0
+NC-172,Fernando Suarez,NC,Mario Gomez,Active,4,Gold,543.62,Wellhub,02-01-2026,,,,15,60,27.0,33.0
+NC-173,Daniel Lopez,NC,Anselmo Urrutia,Active,3,Gold,391.82,Rosebud,05-01-2026,,,,30,90,40.5,49.5
+NC-174,Carlos Lopez,NC,Miguel Ledezma,Terminated,1,Gold,168.47,Panorama,02-01-2026,06-30-2026,,,12,12,5.4,6.6
+NC-175,Luis Ramos,NC,Nancy Ramirez,Active,1,Silver,16.01,Panorama,02-01-2026,,,,12,12,5.4,6.6
+NC-176,Sara Rios,NC,Miguel Ledezma,Active,1,Silver,419.51,Molino,04-01-2026,,,,15,15,6.75,8.25
+NJ-101,David Herrera,NJ,Anselmo Urrutia,Active,4,Silver,376.54,Wellhub,06-01-2026,,,,15,60,27.0,33.0
+NJ-102,Elena Suarez,NJ,Iris Solorzano,Active,2,Silver,161.72,First Aid,05-01-2026,,,,26,52,23.4,28.6
+NJ-103,Diego Suarez,NJ,Mario Gomez,Terminated,3,Silver,226.19,Azure,02-01-2026,05-31-2026,,,25,75,33.75,41.25
+NJ-104,Ana Tovar,NJ,Marisol Parra,Terminated,1,Silver,294.39,Wellhub,03-01-2026,06-30-2026,,,15,15,6.75,8.25
+NJ-105,Maria Rojas,NJ,Mario Gomez,Active,3,Silver,296.19,Americano Health,06-01-2026,,,,10,30,13.5,16.5
+NJ-106,Victoria Ledesma,NJ,Anselmo Urrutia,Active,3,Gold,499.62,Belgrano,01-01-2026,,,,20,60,27.0,33.0
+NJ-107,Claudia Ortiz,NJ,Iris Solorzano,Pipeline,1,Gold,188.97,Rosebud,04-01-2026,,07-05-2026,Missing Payment,30,30,13.5,16.5
+NJ-108,Daniela Chavez,NJ,Mario Gomez,Active,1,Gold,170.7,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+NJ-109,Pedro Rojas,NJ,Arturo Rios,Active,1,Silver,50.43,Americano Health,02-01-2026,,,,10,10,4.5,5.5
+NJ-110,Gabriela Gutierrez,NJ,Azul Perez,Active,1,Bronze,454.26,Panorama,06-01-2026,,,,12,12,5.4,6.6
+NJ-111,Javier Gomez,NJ,Iris Solorzano,Terminated,1,Gold,195.9,Belgrano,06-01-2026,06-30-2026,,,20,20,9.0,11.0
+NJ-112,Carlos Morales,NJ,Mario Gomez,Active,1,Silver,202.14,First Aid,04-01-2026,,,,26,26,11.7,14.3
+NJ-113,Sebastian Sanchez,NJ,Anselmo Urrutia,Active,1,Silver,187.49,Americano Health,01-01-2026,,,,10,10,4.5,5.5
+NJ-114,Laura Martinez,NJ,Arturo Rios,Active,3,Gold,475.0,Belgrano,02-01-2026,,,,20,60,27.0,33.0
+NJ-115,Sebastian Jimenez,NJ,Iris Solorzano,Pipeline,1,Gold,7.78,Americano Health,04-01-2026,,07-05-2026,Missing Payment,10,10,4.5,5.5
+NJ-116,Isabella Gonzalez,NJ,Marisol Parra,Active,3,Gold,396.18,Gecko,02-01-2026,,,,10,30,13.5,16.5
+NJ-117,Martina Rojas,NJ,Arturo Rios,Active,1,Silver,94.39,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+NJ-118,Diego Mendoza,NJ,Arturo Rios,Active,3,Silver,236.96,Gecko,05-01-2026,,,,10,30,13.5,16.5
+NJ-119,Santiago Vargas,NJ,Nancy Ramirez,Active,3,Silver,251.47,Belgrano,01-01-2026,,,,20,60,27.0,33.0
+NJ-120,Pedro Lopez,NJ,Marisol Parra,Pipeline,3,Bronze,106.53,Panorama,06-01-2026,,08-15-2026,Missing Documents,12,36,16.2,19.8
+NJ-121,Martina Garcia,NJ,Marisol Parra,Active,4,Gold,523.87,Panorama,05-01-2026,,,,12,48,21.6,26.4
+NJ-122,Camila Ortiz,NJ,Miguel Ledezma,Terminated,2,Gold,241.32,Panorama,02-01-2026,04-30-2026,,,12,24,10.8,13.2
+NJ-123,Sofia Fernandez,NJ,Marisol Parra,Active,2,Silver,103.05,First Aid,02-01-2026,,,,26,52,23.4,28.6
+NJ-124,Sebastian Tovar,NJ,Marisol Parra,Active,1,Gold,185.73,Azure,04-01-2026,,,,25,25,11.25,13.75
+NJ-125,Sara Diaz,NJ,Azul Perez,Pipeline,2,Bronze,47.81,Wellhub,05-01-2026,,08-04-2026,Missing Documents,15,30,13.5,16.5
+NJ-126,Camila Ruiz,NJ,Anselmo Urrutia,Active,2,Gold,293.5,First Aid,06-01-2026,,,,26,52,23.4,28.6
+NJ-127,Daniel Nunez,NJ,Mario Gomez,Active,1,Gold,134.28,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+NJ-128,Victoria Sanchez,NJ,Arturo Rios,Active,1,Gold,192.1,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+NJ-129,Maria Garcia,NJ,Marisol Parra,Pipeline Expired,4,Gold,604.3,First Aid,01-01-2026,04-30-2026,04-06-2026,,26,104,46.8,57.2
+NJ-130,Alejandro Medina,NJ,Iris Solorzano,Active,1,Silver,94.16,Molino,05-01-2026,,,,15,15,6.75,8.25
+NJ-131,Sebastian Ramos,NJ,Iris Solorzano,Active,1,Gold,187.26,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+NJ-132,Sofia Marin,NJ,Nancy Ramirez,Active,1,Silver,371.09,Belgrano,01-01-2026,,,,20,20,9.0,11.0
+NJ-133,Maria Diaz,NJ,Iris Solorzano,Active,2,Silver,130.61,Gecko,03-01-2026,,,,10,20,9.0,11.0
+NJ-134,Carlos Mendoza,NJ,Azul Perez,Pipeline,2,Silver,139.18,Gecko,06-01-2026,,09-04-2026,Missing Payment,10,20,9.0,11.0
+NJ-135,Daniela Alvarez,NJ,Arturo Rios,Active,1,Silver,329.72,Rosebud,05-01-2026,,,,30,30,13.5,16.5
+NJ-136,Santiago Romero,NJ,Arturo Rios,Active,1,Silver,177.66,Gecko,04-01-2026,,,,10,10,4.5,5.5
+NJ-137,Juan Castro,NJ,Iris Solorzano,Active,3,Silver,200.41,Azure,05-01-2026,,,,25,75,33.75,41.25
+NJ-138,Lucia Ledesma,NJ,Marisol Parra,Active,1,Silver,166.75,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+NJ-139,Maria Ruiz,NJ,Arturo Rios,Active,2,Bronze,39.14,Azure,01-01-2026,,,,25,50,22.5,27.5
+NJ-140,Lucas Rios,NJ,Mario Gomez,Active,1,Gold,167.67,Gecko,06-01-2026,,,,10,10,4.5,5.5
+NJ-141,Sebastian Garcia,NJ,Miguel Ledezma,Active,1,Gold,285.21,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+NJ-142,Mateo Acosta,NJ,Marisol Parra,Active,4,Bronze,159.95,Azure,02-01-2026,,,,25,100,45.0,55.0
+NJ-143,Fernando Perez,NJ,Anselmo Urrutia,Active,3,Silver,297.68,Molino,05-01-2026,,,,15,45,20.25,24.75
+NJ-144,Carlos Castro,NJ,Marisol Parra,Pipeline Expired,1,Gold,186.22,Americano Health,01-01-2026,03-31-2026,03-17-2026,,10,10,4.5,5.5
+NJ-145,Jorge Vargas,NJ,Marisol Parra,Active,2,Gold,217.71,Gecko,06-01-2026,,,,10,20,9.0,11.0
+NJ-146,Manuel Nunez,NJ,Miguel Ledezma,Pipeline Expired,3,Bronze,101.71,First Aid,03-01-2026,05-31-2026,05-15-2026,,26,78,35.1,42.9
+NJ-147,Maria Perez,NJ,Azul Perez,Active,1,Bronze,341.83,Panorama,06-01-2026,,,,12,12,5.4,6.6
+NJ-148,Paula Vargas,NJ,Marisol Parra,Active,3,Bronze,75.78,Molino,01-01-2026,,,,15,45,20.25,24.75
+NJ-149,Miguel Benitez,NJ,Anselmo Urrutia,Terminated,1,Gold,189.54,Gecko,06-01-2026,06-30-2026,,,10,10,4.5,5.5
+NJ-150,Laura Aguilar,NJ,Nancy Ramirez,Active,4,Silver,366.99,Belgrano,03-01-2026,,,,20,80,36.0,44.0
+NJ-151,Jose Nunez,NJ,Marisol Parra,Active,2,Silver,179.22,Gecko,05-01-2026,,,,10,20,9.0,11.0
+NJ-152,Sofia Fernandez,NJ,Azul Perez,Active,3,Silver,286.59,Wellhub,05-01-2026,,,,15,45,20.25,24.75
+NJ-153,Alejandro Valenzuela,NJ,Nancy Ramirez,Active,1,Bronze,24.06,Rosebud,05-01-2026,,,,30,30,13.5,16.5
+NJ-154,Sebastian Ledesma,NJ,Iris Solorzano,Active,3,Silver,247.65,Americano Health,05-01-2026,,,,10,30,13.5,16.5
+NJ-155,David Sanchez,NJ,Arturo Rios,Active,1,Silver,60.54,Wellhub,05-01-2026,,,,15,15,6.75,8.25
+NJ-156,Andrea Aguilar,NJ,Anselmo Urrutia,Active,4,Gold,501.21,Molino,03-01-2026,,,,15,60,27.0,33.0
+NJ-157,Camila Miranda,NJ,Anselmo Urrutia,Active,1,Silver,276.58,Molino,06-01-2026,,,,15,15,6.75,8.25
+NJ-158,Nicolas Tovar,NJ,Anselmo Urrutia,Active,4,Silver,365.02,Panorama,05-01-2026,,,,12,48,21.6,26.4
+NJ-159,Andrea Garcia,NJ,Iris Solorzano,Active,4,Gold,600.67,Wellhub,03-01-2026,,,,15,60,27.0,33.0
+NJ-160,Andres Marin,NJ,Mario Gomez,Active,1,Gold,355.36,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+NJ-161,Santiago Silva,NJ,Miguel Ledezma,Pipeline,2,Bronze,62.09,Wellhub,04-01-2026,,07-05-2026,Missing Documents,15,30,13.5,16.5
+NJ-162,Lucia Rojas,NJ,Arturo Rios,Terminated,1,Silver,107.18,Belgrano,06-01-2026,06-30-2026,,,20,20,9.0,11.0
+NJ-163,Andres Lopez,NJ,Arturo Rios,Terminated,3,Bronze,87.2,First Aid,06-01-2026,06-30-2026,,,26,78,35.1,42.9
+NJ-164,Maria Herrera,NJ,Marisol Parra,Active,1,Silver,47.26,First Aid,01-01-2026,,,,26,26,11.7,14.3
+NJ-165,Luis Lopez,NJ,Anselmo Urrutia,Terminated,3,Gold,380.9,Wellhub,05-01-2026,06-30-2026,,,15,45,20.25,24.75
+NJ-166,Mariana Castro,NJ,Azul Perez,Active,1,Gold,388.21,First Aid,03-01-2026,,,,26,26,11.7,14.3
+NJ-167,Ricardo Herrera,NJ,Nancy Ramirez,Active,1,Gold,172.97,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+NJ-168,Jose Lopez,NJ,Nancy Ramirez,Pipeline,4,Silver,309.77,Gecko,06-01-2026,,09-04-2026,Missing Payment,10,40,18.0,22.0
+NJ-169,Daniela Suarez,NJ,Anselmo Urrutia,Active,1,Bronze,21.531,Azure,01-01-2026,,,,25,25,11.25,13.75
+OH-101,Gabriela Sanchez,OH,Azul Perez,Terminated,2,Gold,286.35,Wellhub,03-01-2026,04-30-2026,,,15,30,13.5,16.5
+OH-102,Ricardo Gomez,OH,Nancy Ramirez,Active,1,Bronze,8.47,Gecko,02-01-2026,,,,10,10,4.5,5.5
+OH-103,Ricardo Marin,OH,Nancy Ramirez,Pipeline,3,Gold,487.19,Gecko,05-01-2026,,08-04-2026,Missing Documents,10,30,13.5,16.5
+OH-104,Diego Lopez,OH,Miguel Ledezma,Active,1,Silver,198.01,Panorama,05-01-2026,,,,12,12,5.4,6.6
+OH-105,Sebastian Castro,OH,Arturo Rios,Pipeline Expired,1,Gold,184.83,Wellhub,03-01-2026,06-30-2026,06-04-2026,,15,15,6.75,8.25
+OH-106,Sara Diaz,OH,Mario Gomez,Active,2,Gold,222.53,Azure,05-01-2026,,,,25,50,22.5,27.5
+OH-107,Sofia Alvarez,OH,Mario Gomez,Active,1,Bronze,22.148,Wellhub,02-01-2026,,,,15,15,6.75,8.25
+OH-108,Isabella Flores,OH,Azul Perez,Active,1,Silver,155.1,Molino,05-01-2026,,,,15,15,6.75,8.25
+OH-109,Miguel Mendoza,OH,Marisol Parra,Terminated,1,Bronze,312.4,Gecko,04-01-2026,04-30-2026,,,10,10,4.5,5.5
+OH-110,Juan Diaz,OH,Mario Gomez,Terminated,4,Silver,361.83,Wellhub,04-01-2026,04-30-2026,,,15,60,27.0,33.0
+OH-111,Elena Sanchez,OH,Nancy Ramirez,Active,4,Bronze,174.88,Azure,04-01-2026,,,,25,100,45.0,55.0
+OH-112,Sara Diaz,OH,Marisol Parra,Active,1,Bronze,7.45,First Aid,06-01-2026,,,,26,26,11.7,14.3
+OH-113,Nicolas Silva,OH,Iris Solorzano,Active,4,Bronze,170.95,Panorama,01-01-2026,,,,12,48,21.6,26.4
+OH-114,Carlos Nunez,OH,Arturo Rios,Terminated,3,Silver,206.04,Americano Health,02-01-2026,03-31-2026,,,10,30,13.5,16.5
+OH-115,Javier Infante,OH,Arturo Rios,Active,2,Silver,181.41,First Aid,04-01-2026,,,,26,52,23.4,28.6
+OH-116,Carlos Gomez,OH,Marisol Parra,Pipeline,4,Bronze,128.58,Americano Health,05-01-2026,,08-04-2026,Missing Payment,10,40,18.0,22.0
+OH-117,Luis Rios,OH,Anselmo Urrutia,Pipeline Expired,2,Bronze,49.14,Wellhub,01-01-2026,04-30-2026,04-06-2026,,15,30,13.5,16.5
+OH-118,Valentina Gonzalez,OH,Miguel Ledezma,Terminated,1,Silver,417.61,Molino,03-01-2026,04-30-2026,,,15,15,6.75,8.25
+OH-119,Daniela Nunez,OH,Iris Solorzano,Active,3,Bronze,81.96,Gecko,01-01-2026,,,,10,30,13.5,16.5
+OH-120,Diego Rios,OH,Miguel Ledezma,Active,1,Silver,96.11,Gecko,05-01-2026,,,,10,10,4.5,5.5
+OH-121,Carlos Ramos,OH,Marisol Parra,Terminated,4,Silver,320.07,Panorama,06-01-2026,06-30-2026,,,12,48,21.6,26.4
+OH-122,Andres Garcia,OH,Miguel Ledezma,Active,3,Silver,212.31,Belgrano,06-01-2026,,,,20,60,27.0,33.0
+OH-123,Natalia Diaz,OH,Arturo Rios,Active,1,Silver,140.53,Gecko,06-01-2026,,,,10,10,4.5,5.5
+OH-124,David Martinez,OH,Arturo Rios,Terminated,3,Gold,475.17,Panorama,01-01-2026,01-31-2026,,,12,36,16.2,19.8
+OH-125,Lucia Ledesma,OH,Nancy Ramirez,Pipeline Expired,1,Silver,361.3,Belgrano,02-01-2026,04-30-2026,04-17-2026,,20,20,9.0,11.0
+OH-126,Lucia Vargas,OH,Iris Solorzano,Pipeline,1,Bronze,343.42,Panorama,05-01-2026,,07-15-2026,Missing Payment,12,12,5.4,6.6
+OH-127,Sofia Infante,OH,Arturo Rios,Terminated,4,Gold,644.27,Belgrano,06-01-2026,06-30-2026,,,20,80,36.0,44.0
+OH-128,Victoria Jimenez,OH,Marisol Parra,Active,1,Silver,97.74,Azure,04-01-2026,,,,25,25,11.25,13.75
+OH-129,Valentina Fernandez,OH,Arturo Rios,Pipeline Expired,3,Bronze,116.18,Gecko,04-01-2026,06-30-2026,06-15-2026,,10,30,13.5,16.5
+OH-130,Valentina Ortiz,OH,Arturo Rios,Terminated,4,Bronze,143.91,Azure,04-01-2026,05-31-2026,,,25,100,45.0,55.0
+OH-131,Paula Aguilar,OH,Anselmo Urrutia,Active,1,Bronze,140.28,Molino,04-01-2026,,,,15,15,6.75,8.25
+OH-132,Laura Miranda,OH,Anselmo Urrutia,Active,1,Gold,95.37,Wellhub,02-01-2026,,,,15,15,6.75,8.25
+OH-133,Elena Alvarez,OH,Miguel Ledezma,Active,4,Gold,510.25,Wellhub,04-01-2026,,,,15,60,27.0,33.0
+OH-134,Carlos Acosta,OH,Azul Perez,Active,4,Gold,555.6,Molino,02-01-2026,,,,15,60,27.0,33.0
+OH-135,Laura Benitez,OH,Mario Gomez,Active,1,Gold,177.82,Azure,02-01-2026,,,,25,25,11.25,13.75
+OH-136,Valentina Chavez,OH,Anselmo Urrutia,Pipeline,1,Gold,177.95,Americano Health,05-01-2026,,07-15-2026,Missing Payment,10,10,4.5,5.5
+OH-137,Valentina Chavez,OH,Nancy Ramirez,Active,1,Bronze,123.19,Molino,04-01-2026,,,,15,15,6.75,8.25
+OH-138,Ana Morales,OH,Arturo Rios,Active,2,Gold,322.42,Belgrano,02-01-2026,,,,20,40,18.0,22.0
+OH-139,Claudia Valenzuela,OH,Iris Solorzano,Active,1,Silver,60.32,Belgrano,05-01-2026,,,,20,20,9.0,11.0
+OH-140,Victoria Vargas,OH,Azul Perez,Active,4,Gold,534.49,Panorama,02-01-2026,,,,12,48,21.6,26.4
+OH-141,Daniel Castro,OH,Marisol Parra,Active,1,Bronze,453.45,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+OH-142,Ricardo Suarez,OH,Azul Perez,Active,4,Silver,364.99,Wellhub,01-01-2026,,,,15,60,27.0,33.0
+OH-143,Gabriela Aguilar,OH,Nancy Ramirez,Active,3,Bronze,99.33,First Aid,03-01-2026,,,,26,78,35.1,42.9
+OH-144,Elena Miranda,OH,Azul Perez,Active,1,Gold,461.6,Azure,03-01-2026,,,,25,25,11.25,13.75
+OH-145,Andrea Suarez,OH,Nancy Ramirez,Active,4,Bronze,172.05,First Aid,04-01-2026,,,,26,104,46.8,57.2
+OH-146,Juan Ortiz,OH,Anselmo Urrutia,Active,1,Bronze,21.57,Azure,04-01-2026,,,,25,25,11.25,13.75
+OH-147,Valentina Ruiz,OH,Arturo Rios,Active,1,Bronze,17.98,Molino,01-01-2026,,,,15,15,6.75,8.25
+OH-148,Jorge Tovar,OH,Miguel Ledezma,Pipeline Expired,4,Bronze,161.08,Americano Health,01-01-2026,03-31-2026,03-17-2026,,10,40,18.0,22.0
+OH-149,Santiago Mendoza,OH,Marisol Parra,Active,1,Silver,95.12,Azure,01-01-2026,,,,25,25,11.25,13.75
+OH-150,Mateo Rojas,OH,Iris Solorzano,Active,1,Bronze,309.15,Panorama,06-01-2026,,,,12,12,5.4,6.6
+OH-151,Carlos Tovar,OH,Iris Solorzano,Active,1,Silver,97.09,First Aid,05-01-2026,,,,26,26,11.7,14.3
+OH-152,David Rojas,OH,Mario Gomez,Pipeline Expired,1,Silver,53.59,Americano Health,02-01-2026,05-31-2026,05-07-2026,,10,10,4.5,5.5
+OH-153,Lucas Ruiz,OH,Miguel Ledezma,Active,1,Gold,235.2,Wellhub,06-01-2026,,,,15,15,6.75,8.25
+OH-154,Fernando Morales,OH,Nancy Ramirez,Active,1,Silver,94.39,First Aid,02-01-2026,,,,26,26,11.7,14.3
+OH-155,Andrea Aguilar,OH,Nancy Ramirez,Active,1,Silver,70.33,Panorama,03-01-2026,,,,12,12,5.4,6.6
+OH-156,Juan Chavez,OH,Nancy Ramirez,Pipeline,4,Gold,625.9,Belgrano,04-01-2026,,07-05-2026,Missing Documents,20,80,36.0,44.0
+OH-157,Ana Rios,OH,Marisol Parra,Active,1,Bronze,360.28,First Aid,01-01-2026,,,,26,26,11.7,14.3
+OH-158,Claudia Ortiz,OH,Anselmo Urrutia,Active,1,Silver,258.62,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+OH-159,Victoria Suarez,OH,Anselmo Urrutia,Pipeline,1,Gold,160.91,Americano Health,05-01-2026,,07-15-2026,Missing Payment,10,10,4.5,5.5
+OH-160,Ana Ruiz,OH,Iris Solorzano,Active,1,Silver,391.16,Azure,01-01-2026,,,,25,25,11.25,13.75
+OH-161,Claudia Sanchez,OH,Arturo Rios,Active,4,Silver,327.36,First Aid,02-01-2026,,,,26,104,46.8,57.2
+OH-162,Diego Rojas,OH,Azul Perez,Active,4,Silver,380.33,Americano Health,06-01-2026,,,,10,40,18.0,22.0
+OH-163,Miguel Marin,OH,Mario Gomez,Active,4,Gold,516.19,Rosebud,04-01-2026,,,,30,120,54.0,66.0
+OH-164,Camila Acosta,OH,Anselmo Urrutia,Active,3,Gold,378.22,First Aid,01-01-2026,,,,26,78,35.1,42.9
+OH-165,Sebastian Miranda,OH,Iris Solorzano,Active,1,Silver,60.26,Wellhub,03-01-2026,,,,15,15,6.75,8.25
+OH-166,Alejandro Herrera,OH,Azul Perez,Active,1,Bronze,458.61,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+TN-101,Victoria Acosta,TN,Mario Gomez,Active,4,Bronze,143.17,Belgrano,03-01-2026,,,,20,80,36.0,44.0
+TN-102,Valentina Ledesma,TN,Arturo Rios,Active,2,Bronze,74.86,Molino,01-01-2026,,,,15,30,13.5,16.5
+TN-103,Elena Castro,TN,Azul Perez,Active,1,Gold,158.58,Panorama,03-01-2026,,,,12,12,5.4,6.6
+TN-104,Nicolas Martinez,TN,Anselmo Urrutia,Active,4,Gold,526.44,Americano Health,04-01-2026,,,,10,40,18.0,22.0
+TN-105,Lucia Marin,TN,Azul Perez,Active,1,Bronze,475.12,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+TN-106,Daniela Ruiz,TN,Miguel Ledezma,Active,4,Bronze,168.44,Wellhub,01-01-2026,,,,15,60,27.0,33.0
+TN-107,Daniela Ramos,TN,Mario Gomez,Pipeline,1,Gold,157.36,Azure,05-01-2026,,07-15-2026,Missing Payment,25,25,11.25,13.75
+TN-108,David Medina,TN,Mario Gomez,Active,3,Silver,200.74,Panorama,03-01-2026,,,,12,36,16.2,19.8
+TN-109,Ricardo Ruiz,TN,Anselmo Urrutia,Active,1,Bronze,23.66,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+TN-110,Manuel Perez,TN,Marisol Parra,Pipeline Expired,4,Silver,375.16,Wellhub,02-01-2026,04-30-2026,04-17-2026,,15,60,27.0,33.0
+TN-111,Juan Acosta,TN,Nancy Ramirez,Active,3,Bronze,101.15,Azure,01-01-2026,,,,25,75,33.75,41.25
+TN-112,Javier Castro,TN,Mario Gomez,Active,1,Bronze,76.39,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+TN-113,Laura Valenzuela,TN,Marisol Parra,Active,1,Bronze,149.66,First Aid,04-01-2026,,,,26,26,11.7,14.3
+TN-114,Andres Diaz,TN,Arturo Rios,Pipeline,3,Silver,267.98,Molino,05-01-2026,,07-15-2026,Missing Payment,15,45,20.25,24.75
+TN-115,Lucas Gutierrez,TN,Arturo Rios,Active,1,Gold,193.31,Wellhub,05-01-2026,,,,15,15,6.75,8.25
+TN-116,Sebastian Chavez,TN,Azul Perez,Active,2,Bronze,65.47,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+TN-117,Sofia Gutierrez,TN,Arturo Rios,Active,1,Gold,298.72,Panorama,05-01-2026,,,,12,12,5.4,6.6
+TN-118,Daniela Morales,TN,Azul Perez,Pipeline,4,Bronze,165.61,Americano Health,06-01-2026,,09-04-2026,Missing Payment,10,40,18.0,22.0
+TN-119,Valentina Alvarez,TN,Marisol Parra,Pipeline,3,Gold,425.52,Rosebud,05-01-2026,,08-04-2026,Missing Documents,30,90,40.5,49.5
+TN-120,Mateo Herrera,TN,Anselmo Urrutia,Terminated,1,Gold,418.43,Belgrano,05-01-2026,05-31-2026,,,20,20,9.0,11.0
+TN-121,Valentina Gonzalez,TN,Miguel Ledezma,Active,4,Bronze,127.54,Panorama,04-01-2026,,,,12,48,21.6,26.4
+TN-122,Sebastian Diaz,TN,Marisol Parra,Active,3,Bronze,75.35,Molino,06-01-2026,,,,15,45,20.25,24.75
+TN-123,Fernando Valenzuela,TN,Miguel Ledezma,Pipeline Expired,4,Gold,525.15,Americano Health,03-01-2026,06-30-2026,06-04-2026,,10,40,18.0,22.0
+TN-124,Lucia Perez,TN,Nancy Ramirez,Active,1,Gold,178.42,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+TN-125,Javier Gutierrez,TN,Arturo Rios,Active,3,Gold,419.38,Gecko,04-01-2026,,,,10,30,13.5,16.5
+TN-126,Javier Mendoza,TN,Marisol Parra,Terminated,1,Bronze,14.99,Rosebud,05-01-2026,06-30-2026,,,30,30,13.5,16.5
+TN-127,Daniela Ramos,TN,Mario Gomez,Active,1,Bronze,14.0,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+TN-128,Jose Herrera,TN,Miguel Ledezma,Terminated,3,Silver,248.12,Rosebud,06-01-2026,06-30-2026,,,30,90,40.5,49.5
+TN-129,David Acosta,TN,Arturo Rios,Pipeline Expired,4,Gold,625.3,Molino,03-01-2026,06-30-2026,06-04-2026,,15,60,27.0,33.0
+TN-130,Laura Alvarez,TN,Iris Solorzano,Terminated,2,Silver,131.29,Americano Health,06-01-2026,06-30-2026,,,10,20,9.0,11.0
+TN-131,Lucia Valenzuela,TN,Marisol Parra,Pipeline Expired,4,Gold,557.021,Americano Health,04-01-2026,06-30-2026,06-15-2026,,10,40,18.0,22.0
+TN-132,Javier Ruiz,TN,Azul Perez,Pipeline Expired,3,Silver,289.41,Molino,02-01-2026,05-31-2026,05-07-2026,,15,45,20.25,24.75
+TN-133,Natalia Chavez,TN,Anselmo Urrutia,Active,4,Silver,384.81,Americano Health,02-01-2026,,,,10,40,18.0,22.0
+TN-134,Sebastian Fernandez,TN,Nancy Ramirez,Active,4,Gold,630.09,Molino,05-01-2026,,,,15,60,27.0,33.0
+TN-135,Ana Gomez,TN,Nancy Ramirez,Active,1,Bronze,464.83,Gecko,06-01-2026,,,,10,10,4.5,5.5
+TN-136,Santiago Acosta,TN,Azul Perez,Active,3,Gold,481.93,First Aid,02-01-2026,,,,26,78,35.1,42.9
+TN-137,Javier Chavez,TN,Anselmo Urrutia,Terminated,4,Silver,330.56,Wellhub,06-01-2026,06-30-2026,,,15,60,27.0,33.0
+TN-138,Sara Valenzuela,TN,Arturo Rios,Pipeline,3,Bronze,95.5,Rosebud,06-01-2026,,08-15-2026,Missing Documents,30,90,40.5,49.5
+TN-139,Mateo Rodriguez,TN,Mario Gomez,Active,4,Bronze,159.39,Wellhub,01-01-2026,,,,15,60,27.0,33.0
+TN-140,Santiago Perez,TN,Miguel Ledezma,Active,1,Bronze,24.0,Americano Health,04-01-2026,,,,10,10,4.5,5.5
+TN-141,Sebastian Vargas,TN,Marisol Parra,Terminated,1,Bronze,17.53,Belgrano,02-01-2026,06-30-2026,,,20,20,9.0,11.0
+TN-142,Juan Lopez,TN,Azul Perez,Active,2,Bronze,74.0,Panorama,04-01-2026,,,,12,24,10.8,13.2
+TN-143,Mariana Alvarez,TN,Mario Gomez,Terminated,1,Gold,351.36,Americano Health,01-01-2026,01-31-2026,,,10,10,4.5,5.5
+TN-144,Mateo Castro,TN,Anselmo Urrutia,Active,1,Gold,2.92,Wellhub,04-01-2026,,,,15,15,6.75,8.25
+TN-145,Valentina Medina,TN,Azul Perez,Active,1,Gold,235.01,Americano Health,05-01-2026,,,,10,10,4.5,5.5
+TN-146,Daniela Ortiz,TN,Nancy Ramirez,Active,1,Bronze,269.89,Gecko,03-01-2026,,,,10,10,4.5,5.5
+TN-147,Santiago Vargas,TN,Mario Gomez,Terminated,2,Silver,120.29,Azure,05-01-2026,06-30-2026,,,25,50,22.5,27.5
+TN-148,Lucia Morales,TN,Mario Gomez,Pipeline Expired,2,Bronze,36.29,First Aid,03-01-2026,06-30-2026,06-04-2026,,26,52,23.4,28.6
+TN-149,Laura Tovar,TN,Mario Gomez,Active,1,Silver,381.57,Americano Health,01-01-2026,,,,10,10,4.5,5.5
+TN-150,Pedro Rios,TN,Anselmo Urrutia,Terminated,4,Gold,634.28,Rosebud,02-01-2026,05-31-2026,,,30,120,54.0,66.0
+TN-151,Luis Jimenez,TN,Nancy Ramirez,Pipeline Expired,4,Silver,368.57,Belgrano,02-01-2026,04-30-2026,04-17-2026,,20,80,36.0,44.0
+TN-152,David Herrera,TN,Miguel Ledezma,Active,1,Bronze,452.78,Belgrano,02-01-2026,,,,20,20,9.0,11.0
+TN-153,Camila Diaz,TN,Marisol Parra,Active,1,Silver,182.46,Gecko,04-01-2026,,,,10,10,4.5,5.5
+TN-154,Pedro Chavez,TN,Miguel Ledezma,Active,1,Silver,247.7,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+TN-155,Mariana Martinez,TN,Mario Gomez,Active,2,Bronze,58.27,Rosebud,04-01-2026,,,,30,60,27.0,33.0
+TN-156,Juan Medina,TN,Arturo Rios,Pipeline Expired,4,Gold,548.98,Panorama,01-01-2026,03-31-2026,03-17-2026,,12,48,21.6,26.4
+TN-157,Isabella Infante,TN,Nancy Ramirez,Active,1,Bronze,4.7,Panorama,03-01-2026,,,,12,12,5.4,6.6
+TN-158,Daniel Sanchez,TN,Miguel Ledezma,Active,1,Gold,177.96,Azure,05-01-2026,,,,25,25,11.25,13.75
+TN-159,Laura Gomez,TN,Azul Perez,Active,3,Bronze,110.82,Gecko,01-01-2026,,,,10,30,13.5,16.5
+TN-160,Camila Alvarez,TN,Nancy Ramirez,Active,4,Gold,644.05,Azure,03-01-2026,,,,25,100,45.0,55.0
+TN-161,Fernando Gutierrez,TN,Anselmo Urrutia,Pipeline Expired,3,Bronze,100.93,Rosebud,02-01-2026,04-30-2026,04-17-2026,,30,90,40.5,49.5
+TN-162,Nicolas Gonzalez,TN,Nancy Ramirez,Active,1,Bronze,16.46,Americano Health,06-01-2026,,,,10,10,4.5,5.5
+TN-163,Sara Diaz,TN,Mario Gomez,Active,3,Bronze,101.69,Azure,05-01-2026,,,,25,75,33.75,41.25
+TN-164,Daniela Garcia,TN,Azul Perez,Pipeline Expired,2,Silver,110.7,First Aid,03-01-2026,05-31-2026,05-15-2026,,26,52,23.4,28.6
+TN-165,Diego Nunez,TN,Anselmo Urrutia,Pipeline,2,Bronze,27.56,Gecko,06-01-2026,,08-15-2026,Missing Documents,10,20,9.0,11.0
+TN-166,Mariana Ortiz,TN,Mario Gomez,Active,1,Gold,200.78,Gecko,06-01-2026,,,,10,10,4.5,5.5
+TN-167,Ana Benitez,TN,Azul Perez,Active,1,Bronze,18.29,Gecko,04-01-2026,,,,10,10,4.5,5.5
+TN-168,Javier Chavez,TN,Marisol Parra,Terminated,2,Bronze,36.93,Gecko,01-01-2026,02-28-2026,,,10,20,9.0,11.0
+TN-169,Fernando Infante,TN,Arturo Rios,Active,1,Gold,141.74,Gecko,04-01-2026,,,,10,10,4.5,5.5
+TN-170,Alejandro Alvarez,TN,Arturo Rios,Active,1,Gold,97.22,Gecko,04-01-2026,,,,10,10,4.5,5.5
+TN-171,Ana Mendoza,TN,Miguel Ledezma,Pipeline Expired,2,Gold,222.98,Wellhub,04-01-2026,06-30-2026,06-15-2026,,15,30,13.5,16.5
+TN-172,Nicolas Ruiz,TN,Azul Perez,Active,1,Silver,41.41,Azure,05-01-2026,,,,25,25,11.25,13.75
+TN-173,Manuel Jimenez,TN,Miguel Ledezma,Terminated,4,Gold,530.53,Gecko,04-01-2026,04-30-2026,,,10,40,18.0,22.0
+TN-174,Gabriela Ledesma,TN,Marisol Parra,Active,2,Bronze,54.36,Molino,02-01-2026,,,,15,30,13.5,16.5
+TN-175,Manuel Herrera,TN,Arturo Rios,Active,2,Gold,328.88,Azure,02-01-2026,,,,25,50,22.5,27.5
+TN-176,Alejandro Benitez,TN,Mario Gomez,Terminated,1,Silver,480.07,Azure,04-01-2026,04-30-2026,,,25,25,11.25,13.75
+TN-177,Sebastian Jimenez,TN,Arturo Rios,Pipeline Expired,2,Bronze,66.01,Gecko,03-01-2026,06-30-2026,06-04-2026,,10,20,9.0,11.0
+TN-178,Fernando Fernandez,TN,Iris Solorzano,Active,1,Silver,446.2,Gecko,04-01-2026,,,,10,10,4.5,5.5
+TN-179,Isabella Jimenez,TN,Marisol Parra,Pipeline,3,Silver,200.45,Gecko,04-01-2026,,07-05-2026,Missing Documents,10,30,13.5,16.5
+TN-180,Camila Acosta,TN,Marisol Parra,Pipeline Expired,1,Bronze,8.8,Azure,02-01-2026,05-31-2026,05-07-2026,,25,25,11.25,13.75
+TN-181,Paula Romero,TN,Azul Perez,Active,2,Gold,298.04,Panorama,06-01-2026,,,,12,24,10.8,13.2
+TN-182,David Benitez,TN,Miguel Ledezma,Active,4,Bronze,150.09,Wellhub,02-01-2026,,,,15,60,27.0,33.0
+TN-183,Sofia Mendoza,TN,Anselmo Urrutia,Active,1,Bronze,12.58,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+TN-184,Manuel Medina,TN,Nancy Ramirez,Active,1,Bronze,71.97,First Aid,01-01-2026,,,,26,26,11.7,14.3
+TN-185,Carlos Rios,TN,Miguel Ledezma,Active,2,Gold,300.6,Azure,06-01-2026,,,,25,50,22.5,27.5
+TN-186,Santiago Herrera,TN,Miguel Ledezma,Pipeline,3,Silver,257.93,Azure,05-01-2026,,07-15-2026,Missing Documents,25,75,33.75,41.25
+TN-187,Fernando Chavez,TN,Arturo Rios,Pipeline,4,Gold,644.25,First Aid,06-01-2026,,09-04-2026,Missing Payment,26,104,46.8,57.2
+TX-101,Nicolas Gonzalez,TX,Marisol Parra,Active,3,Gold,442.3,Americano Health,05-01-2026,,,,10,30,13.5,16.5
+TX-102,David Gomez,TX,Nancy Ramirez,Pipeline,4,Silver,363.12,First Aid,06-01-2026,,08-15-2026,Missing Documents,26,104,46.8,57.2
+TX-103,Santiago Diaz,TX,Nancy Ramirez,Terminated,1,Bronze,22.09,Americano Health,05-01-2026,05-31-2026,,,10,10,4.5,5.5
+TX-104,Juan Jimenez,TX,Marisol Parra,Active,1,Bronze,363.664,First Aid,05-01-2026,,,,26,26,11.7,14.3
+TX-105,Lucia Lopez,TX,Arturo Rios,Active,2,Bronze,69.84,Molino,01-01-2026,,,,15,30,13.5,16.5
+TX-106,Juan Rojas,TX,Arturo Rios,Terminated,1,Gold,384.46,Azure,04-01-2026,04-30-2026,,,25,25,11.25,13.75
+TX-107,Miguel Fernandez,TX,Nancy Ramirez,Active,1,Gold,483.76,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+TX-108,Manuel Acosta,TX,Arturo Rios,Active,1,Silver,74.46,Azure,06-01-2026,,,,25,25,11.25,13.75
+TX-109,Carlos Ledesma,TX,Arturo Rios,Active,1,Bronze,1.96,Molino,03-01-2026,,,,15,15,6.75,8.25
+TX-110,Camila Perez,TX,Marisol Parra,Active,1,Gold,166.3,Americano Health,03-01-2026,,,,10,10,4.5,5.5
+TX-111,Valentina Chavez,TX,Iris Solorzano,Active,2,Gold,270.66,Gecko,01-01-2026,,,,10,20,9.0,11.0
+TX-112,Carlos Ledesma,TX,Arturo Rios,Terminated,2,Gold,320.07,Azure,06-01-2026,06-30-2026,,,25,50,22.5,27.5
+TX-113,Gabriela Ortiz,TX,Arturo Rios,Active,4,Bronze,132.59,Rosebud,04-01-2026,,,,30,120,54.0,66.0
+TX-114,Diego Ruiz,TX,Arturo Rios,Active,1,Bronze,0.72,Molino,03-01-2026,,,,15,15,6.75,8.25
+TX-115,Camila Tovar,TX,Azul Perez,Active,1,Silver,79.17,Rosebud,03-01-2026,,,,30,30,13.5,16.5
+TX-116,Isabella Morales,TX,Anselmo Urrutia,Active,1,Bronze,16.55,Panorama,01-01-2026,,,,12,12,5.4,6.6
+TX-117,Sebastian Mendoza,TX,Mario Gomez,Active,1,Silver,204.05,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+TX-118,Natalia Vargas,TX,Azul Perez,Active,1,Gold,193.98,Belgrano,06-01-2026,,,,20,20,9.0,11.0
+TX-119,Jose Valenzuela,TX,Arturo Rios,Active,3,Silver,248.79,Wellhub,01-01-2026,,,,15,45,20.25,24.75
+TX-120,Ricardo Acosta,TX,Anselmo Urrutia,Active,3,Gold,424.75,Gecko,01-01-2026,,,,10,30,13.5,16.5
+TX-121,David Romero,TX,Nancy Ramirez,Active,4,Gold,617.39,Wellhub,03-01-2026,,,,15,60,27.0,33.0
+TX-122,Carlos Morales,TX,Miguel Ledezma,Active,1,Silver,58.59,Azure,01-01-2026,,,,25,25,11.25,13.75
+TX-123,Jorge Herrera,TX,Azul Perez,Active,1,Silver,264.1,Belgrano,02-01-2026,,,,20,20,9.0,11.0
+TX-124,Sofia Lopez,TX,Miguel Ledezma,Active,2,Gold,286.09,Belgrano,03-01-2026,,,,20,40,18.0,22.0
+TX-125,Miguel Acosta,TX,Miguel Ledezma,Active,2,Silver,195.19,Rosebud,06-01-2026,,,,30,60,27.0,33.0
+TX-126,Nicolas Gutierrez,TX,Arturo Rios,Active,1,Bronze,19.03,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+TX-127,Mateo Rodriguez,TX,Iris Solorzano,Active,2,Bronze,40.14,Molino,01-01-2026,,,,15,30,13.5,16.5
+TX-128,Sara Gutierrez,TX,Mario Gomez,Active,4,Silver,384.04,Americano Health,04-01-2026,,,,10,40,18.0,22.0
+TX-129,Paula Medina,TX,Azul Perez,Pipeline Expired,4,Silver,375.96,Molino,03-01-2026,06-30-2026,06-04-2026,,15,60,27.0,33.0
+TX-130,Victoria Rios,TX,Miguel Ledezma,Active,2,Bronze,55.18,Americano Health,02-01-2026,,,,10,20,9.0,11.0
+TX-131,Javier Torres,TX,Arturo Rios,Active,1,Gold,309.24,Panorama,05-01-2026,,,,12,12,5.4,6.6
+TX-132,Martina Nunez,TX,Mario Gomez,Pipeline Expired,2,Bronze,52.18,Americano Health,03-01-2026,05-31-2026,05-15-2026,,10,20,9.0,11.0
+TX-133,Natalia Lopez,TX,Iris Solorzano,Active,4,Gold,599.48,First Aid,01-01-2026,,,,26,104,46.8,57.2
+TX-134,Sofia Acosta,TX,Nancy Ramirez,Terminated,4,Silver,306.71,Wellhub,03-01-2026,06-30-2026,,,15,60,27.0,33.0
+TX-135,Carlos Castro,TX,Azul Perez,Active,1,Gold,373.64,Molino,01-01-2026,,,,15,15,6.75,8.25
+TX-136,Daniel Garcia,TX,Anselmo Urrutia,Active,2,Bronze,67.96,Belgrano,03-01-2026,,,,20,40,18.0,22.0
+TX-137,Mariana Garcia,TX,Azul Perez,Active,3,Bronze,106.37,Molino,01-01-2026,,,,15,45,20.25,24.75
+TX-138,Juan Ruiz,TX,Anselmo Urrutia,Terminated,3,Silver,270.87,Panorama,05-01-2026,05-31-2026,,,12,36,16.2,19.8
+TX-139,Nicolas Gutierrez,TX,Mario Gomez,Pipeline Expired,4,Gold,521.65,Wellhub,04-01-2026,06-30-2026,06-15-2026,,15,60,27.0,33.0
+TX-140,Jose Lopez,TX,Mario Gomez,Active,1,Gold,131.268,First Aid,06-01-2026,,,,26,26,11.7,14.3
+TX-141,Juan Martinez,TX,Miguel Ledezma,Active,2,Bronze,71.68,Gecko,04-01-2026,,,,10,20,9.0,11.0
+TX-142,Fernando Ruiz,TX,Marisol Parra,Active,3,Silver,226.43,First Aid,02-01-2026,,,,26,78,35.1,42.9
+TX-143,Isabella Rios,TX,Azul Perez,Active,3,Gold,351.14,Azure,03-01-2026,,,,25,75,33.75,41.25
+TX-144,Pedro Lopez,TX,Mario Gomez,Active,1,Gold,152.81,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+TX-145,Luis Castro,TX,Marisol Parra,Active,4,Bronze,132.2,First Aid,04-01-2026,,,,26,104,46.8,57.2
+TX-146,Elena Gonzalez,TX,Iris Solorzano,Pipeline Expired,1,Silver,70.32,Molino,02-01-2026,05-31-2026,05-07-2026,,15,15,6.75,8.25
+TX-147,Andrea Lopez,TX,Azul Perez,Active,3,Gold,489.83,Americano Health,04-01-2026,,,,10,30,13.5,16.5
+TX-148,Sofia Acosta,TX,Anselmo Urrutia,Active,4,Gold,593.83,First Aid,03-01-2026,,,,26,104,46.8,57.2
+TX-149,Miguel Perez,TX,Azul Perez,Active,4,Silver,349.37,Belgrano,01-01-2026,,,,20,80,36.0,44.0
+TX-150,Miguel Torres,TX,Anselmo Urrutia,Active,2,Bronze,61.9,Gecko,05-01-2026,,,,10,20,9.0,11.0
+TX-151,Gabriela Gomez,TX,Anselmo Urrutia,Pipeline Expired,3,Silver,202.29,Rosebud,03-01-2026,05-31-2026,05-15-2026,,30,90,40.5,49.5
+TX-152,Miguel Vargas,TX,Marisol Parra,Active,3,Gold,373.5,Gecko,04-01-2026,,,,10,30,13.5,16.5
+TX-153,Sara Acosta,TX,Marisol Parra,Pipeline,2,Gold,258.62,Rosebud,06-01-2026,,08-15-2026,Missing Documents,30,60,27.0,33.0
+TX-154,Martina Morales,TX,Anselmo Urrutia,Pipeline,4,Gold,575.41,Azure,05-01-2026,,07-15-2026,Missing Documents,25,100,45.0,55.0
+TX-155,Daniela Jimenez,TX,Iris Solorzano,Pipeline Expired,3,Silver,216.31,Wellhub,03-01-2026,06-30-2026,06-04-2026,,15,45,20.25,24.75
+TX-156,Carlos Ledesma,TX,Iris Solorzano,Active,2,Gold,340.75,Belgrano,02-01-2026,,,,20,40,18.0,22.0
+TX-157,Gabriela Ledesma,TX,Anselmo Urrutia,Terminated,2,Silver,190.27,Belgrano,05-01-2026,06-30-2026,,,20,40,18.0,22.0
+TX-158,Isabella Rios,TX,Mario Gomez,Active,1,Silver,90.29,Molino,03-01-2026,,,,15,15,6.75,8.25
+TX-159,Lucas Silva,TX,Arturo Rios,Active,2,Silver,117.78,Gecko,02-01-2026,,,,10,20,9.0,11.0
+TX-160,Jose Castro,TX,Mario Gomez,Active,2,Silver,198.54,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+TX-161,Daniel Marin,TX,Anselmo Urrutia,Active,2,Bronze,32.31,Belgrano,05-01-2026,,,,20,40,18.0,22.0
+TX-162,Elena Chavez,TX,Arturo Rios,Active,1,Silver,261.55,Molino,01-01-2026,,,,15,15,6.75,8.25
+TX-163,Alejandro Aguilar,TX,Nancy Ramirez,Terminated,3,Gold,351.03,Panorama,06-01-2026,06-30-2026,,,12,36,16.2,19.8
+TX-164,Carlos Lopez,TX,Azul Perez,Pipeline Expired,2,Gold,285.543,Molino,02-01-2026,05-31-2026,05-07-2026,,15,30,13.5,16.5
+TX-165,Valentina Infante,TX,Marisol Parra,Active,2,Silver,128.81,Panorama,03-01-2026,,,,12,24,10.8,13.2
+TX-166,Carlos Torres,TX,Mario Gomez,Pipeline Expired,1,Silver,204.78,Americano Health,03-01-2026,05-31-2026,05-15-2026,,10,10,4.5,5.5
+TX-167,Diego Ramos,TX,Iris Solorzano,Active,1,Bronze,5.07,Gecko,02-01-2026,,,,10,10,4.5,5.5
+TX-168,Alejandro Gomez,TX,Iris Solorzano,Active,1,Silver,320.86,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+TX-169,Diego Silva,TX,Miguel Ledezma,Pipeline Expired,1,Silver,318.03,Panorama,04-01-2026,06-30-2026,06-15-2026,,12,12,5.4,6.6
+TX-170,Camila Ortiz,TX,Arturo Rios,Pipeline,3,Gold,388.92,Panorama,04-01-2026,,07-05-2026,Missing Documents,12,36,16.2,19.8
+TX-171,Claudia Rojas,TX,Nancy Ramirez,Active,3,Silver,252.1,Molino,03-01-2026,,,,15,45,20.25,24.75
+TX-172,Daniela Medina,TX,Anselmo Urrutia,Active,1,Silver,152.9,Panorama,06-01-2026,,,,12,12,5.4,6.6
+TX-173,Santiago Diaz,TX,Mario Gomez,Pipeline Expired,2,Gold,332.34,Rosebud,02-01-2026,05-31-2026,05-07-2026,,30,60,27.0,33.0
+TX-174,Maria Martinez,TX,Arturo Rios,Active,3,Gold,457.52,Gecko,04-01-2026,,,,10,30,13.5,16.5
+UT-101,Elena Morales,UT,Nancy Ramirez,Active,2,Silver,176.75,Gecko,03-01-2026,,,,10,20,9.0,11.0
+UT-102,Maria Morales,UT,Mario Gomez,Active,4,Silver,389.57,Rosebud,06-01-2026,,,,30,120,54.0,66.0
+UT-103,Lucas Garcia,UT,Nancy Ramirez,Active,2,Gold,283.77,Gecko,01-01-2026,,,,10,20,9.0,11.0
+UT-104,Claudia Flores,UT,Iris Solorzano,Active,4,Gold,589.06,Belgrano,04-01-2026,,,,20,80,36.0,44.0
+UT-105,Jorge Tovar,UT,Azul Perez,Active,3,Gold,357.64,Wellhub,03-01-2026,,,,15,45,20.25,24.75
+UT-106,Manuel Silva,UT,Azul Perez,Active,3,Bronze,103.34,Molino,03-01-2026,,,,15,45,20.25,24.75
+UT-107,Isabella Fernandez,UT,Mario Gomez,Pipeline Expired,1,Gold,17.55,Belgrano,01-01-2026,04-30-2026,04-06-2026,,20,20,9.0,11.0
+UT-108,Lucia Gomez,UT,Marisol Parra,Active,1,Silver,137.13,Panorama,03-01-2026,,,,12,12,5.4,6.6
+UT-109,Victoria Martinez,UT,Mario Gomez,Terminated,2,Gold,286.11,Wellhub,03-01-2026,05-31-2026,,,15,30,13.5,16.5
+UT-110,Mariana Nunez,UT,Miguel Ledezma,Active,3,Bronze,110.11,Rosebud,02-01-2026,,,,30,90,40.5,49.5
+UT-111,Santiago Mendoza,UT,Mario Gomez,Pipeline Expired,1,Bronze,481.45,Rosebud,03-01-2026,05-31-2026,05-15-2026,,30,30,13.5,16.5
+UT-112,Sebastian Alvarez,UT,Anselmo Urrutia,Terminated,2,Bronze,30.74,Wellhub,04-01-2026,06-30-2026,,,15,30,13.5,16.5
+UT-113,Sofia Mendoza,UT,Marisol Parra,Active,2,Gold,330.2,Panorama,02-01-2026,,,,12,24,10.8,13.2
+UT-114,Daniela Vargas,UT,Mario Gomez,Pipeline,3,Bronze,84.6,Azure,05-01-2026,,08-04-2026,Missing Payment,25,75,33.75,41.25
+UT-115,David Miranda,UT,Nancy Ramirez,Pipeline,1,Bronze,236.45,Belgrano,05-01-2026,,08-04-2026,Missing Payment,20,20,9.0,11.0
+UT-116,Daniela Alvarez,UT,Nancy Ramirez,Pipeline Expired,4,Silver,300.06,Americano Health,02-01-2026,04-30-2026,04-17-2026,,10,40,18.0,22.0
+UT-117,Valentina Medina,UT,Miguel Ledezma,Terminated,2,Gold,265.17,Azure,06-01-2026,06-30-2026,,,25,50,22.5,27.5
+UT-118,Andrea Valenzuela,UT,Miguel Ledezma,Terminated,1,Bronze,6.39,Belgrano,01-01-2026,05-31-2026,,,20,20,9.0,11.0
+UT-119,Camila Romero,UT,Arturo Rios,Active,4,Bronze,125.14,Belgrano,04-01-2026,,,,20,80,36.0,44.0
+UT-120,Paula Sanchez,UT,Azul Perez,Pipeline,4,Gold,569.02,First Aid,05-01-2026,,08-04-2026,Missing Documents,26,104,46.8,57.2
+UT-121,Santiago Rojas,UT,Mario Gomez,Active,3,Bronze,90.01,Azure,06-01-2026,,,,25,75,33.75,41.25
+UT-122,Pedro Acosta,UT,Arturo Rios,Active,1,Bronze,12.67,Americano Health,01-01-2026,,,,10,10,4.5,5.5
+UT-123,Victoria Perez,UT,Anselmo Urrutia,Terminated,3,Bronze,97.51,First Aid,01-01-2026,01-31-2026,,,26,78,35.1,42.9
+UT-124,Nicolas Lopez,UT,Marisol Parra,Active,3,Silver,231.87,Gecko,05-01-2026,,,,10,30,13.5,16.5
+UT-125,Laura Chavez,UT,Miguel Ledezma,Active,4,Silver,389.43,Panorama,03-01-2026,,,,12,48,21.6,26.4
+UT-126,Carlos Fernandez,UT,Iris Solorzano,Active,4,Bronze,162.64,Americano Health,03-01-2026,,,,10,40,18.0,22.0
+UT-127,Juan Medina,UT,Azul Perez,Active,4,Gold,593.22,Panorama,02-01-2026,,,,12,48,21.6,26.4
+UT-128,Jorge Rios,UT,Iris Solorzano,Active,2,Bronze,68.05,First Aid,06-01-2026,,,,26,52,23.4,28.6
+UT-129,Victoria Ortiz,UT,Nancy Ramirez,Terminated,2,Gold,306.87,Wellhub,05-01-2026,06-30-2026,,,15,30,13.5,16.5
+UT-130,Carlos Herrera,UT,Mario Gomez,Active,1,Gold,162.49,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+UT-131,Sebastian Diaz,UT,Miguel Ledezma,Active,1,Bronze,33.66,Azure,01-01-2026,,,,25,25,11.25,13.75
+UT-132,David Castro,UT,Iris Solorzano,Active,1,Bronze,291.45,Rosebud,06-01-2026,,,,30,30,13.5,16.5
+UT-133,Laura Sanchez,UT,Azul Perez,Active,1,Gold,153.29,First Aid,04-01-2026,,,,26,26,11.7,14.3
+UT-134,Diego Alvarez,UT,Mario Gomez,Pipeline Expired,2,Bronze,65.88,Gecko,01-01-2026,04-30-2026,04-06-2026,,10,20,9.0,11.0
+UT-135,Andres Rojas,UT,Iris Solorzano,Active,1,Bronze,490.12,First Aid,06-01-2026,,,,26,26,11.7,14.3
+UT-136,Nicolas Morales,UT,Nancy Ramirez,Active,2,Bronze,63.63,First Aid,03-01-2026,,,,26,52,23.4,28.6
+UT-137,Natalia Lopez,UT,Iris Solorzano,Active,1,Gold,481.83,Belgrano,05-01-2026,,,,20,20,9.0,11.0
+UT-138,Lucia Silva,UT,Mario Gomez,Active,3,Bronze,98.05,Rosebud,06-01-2026,,,,30,90,40.5,49.5
+UT-139,Jorge Rios,UT,Anselmo Urrutia,Active,2,Bronze,45.06,Americano Health,04-01-2026,,,,10,20,9.0,11.0
+UT-140,Pedro Rodriguez,UT,Iris Solorzano,Active,4,Silver,349.62,Wellhub,06-01-2026,,,,15,60,27.0,33.0
+UT-141,Daniel Valenzuela,UT,Mario Gomez,Pipeline Expired,4,Gold,622.99,Panorama,02-01-2026,05-31-2026,05-07-2026,,12,48,21.6,26.4
+UT-142,Natalia Ramos,UT,Mario Gomez,Active,4,Gold,589.24,Azure,01-01-2026,,,,25,100,45.0,55.0
+UT-143,Andres Perez,UT,Nancy Ramirez,Active,1,Gold,196.76,Molino,05-01-2026,,,,15,15,6.75,8.25
+UT-144,Luis Garcia,UT,Arturo Rios,Terminated,4,Bronze,151.38,Wellhub,01-01-2026,06-30-2026,,,15,60,27.0,33.0
+UT-145,Luis Chavez,UT,Mario Gomez,Active,4,Gold,547.63,Americano Health,05-01-2026,,,,10,40,18.0,22.0
+UT-146,Daniel Torres,UT,Azul Perez,Active,3,Bronze,113.39,Gecko,04-01-2026,,,,10,30,13.5,16.5
+UT-147,Isabella Ruiz,UT,Mario Gomez,Active,1,Gold,191.23,Wellhub,02-01-2026,,,,15,15,6.75,8.25
+UT-148,Pedro Ledesma,UT,Mario Gomez,Active,1,Gold,161.83,Belgrano,05-01-2026,,,,20,20,9.0,11.0
+UT-149,Alejandro Vargas,UT,Miguel Ledezma,Terminated,3,Bronze,83.67,Panorama,05-01-2026,05-31-2026,,,12,36,16.2,19.8
+UT-150,Valentina Diaz,UT,Azul Perez,Active,4,Bronze,165.3,Belgrano,04-01-2026,,,,20,80,36.0,44.0
+UT-151,Miguel Miranda,UT,Nancy Ramirez,Active,1,Bronze,19.89,Panorama,01-01-2026,,,,12,12,5.4,6.6
+UT-152,Martina Medina,UT,Miguel Ledezma,Pipeline,1,Bronze,265.14,Americano Health,04-01-2026,,07-05-2026,Missing Documents,10,10,4.5,5.5
+UT-153,Laura Nunez,UT,Arturo Rios,Active,4,Silver,324.32,Wellhub,01-01-2026,,,,15,60,27.0,33.0
+UT-154,David Castro,UT,Marisol Parra,Active,1,Silver,81.37,Americano Health,02-01-2026,,,,10,10,4.5,5.5
+UT-155,Daniel Benitez,UT,Anselmo Urrutia,Active,1,Bronze,499.36,Rosebud,01-01-2026,,,,30,30,13.5,16.5
+UT-156,Sebastian Alvarez,UT,Miguel Ledezma,Terminated,1,Gold,176.79,Gecko,04-01-2026,04-30-2026,,,10,10,4.5,5.5
+UT-157,Santiago Rojas,UT,Miguel Ledezma,Pipeline,1,Gold,196.76,Panorama,04-01-2026,,07-05-2026,Missing Payment,12,12,5.4,6.6
+UT-158,Mariana Diaz,UT,Marisol Parra,Pipeline,2,Gold,315.09,Americano Health,05-01-2026,,08-04-2026,Missing Documents,10,20,9.0,11.0
+UT-159,Miguel Vargas,UT,Anselmo Urrutia,Pipeline Expired,1,Gold,167.31,First Aid,01-01-2026,03-31-2026,03-17-2026,,26,26,11.7,14.3
+UT-160,Fernando Flores,UT,Marisol Parra,Active,2,Gold,307.65,Americano Health,04-01-2026,,,,10,20,9.0,11.0
+UT-161,Martina Benitez,UT,Anselmo Urrutia,Active,1,Gold,18.55,Gecko,02-01-2026,,,,10,10,4.5,5.5
+UT-162,Valentina Jimenez,UT,Azul Perez,Active,3,Gold,496.04,First Aid,01-01-2026,,,,26,78,35.1,42.9
+WI-101,Manuel Rodriguez,WI,Miguel Ledezma,Active,4,Silver,301.9,Azure,01-01-2026,,,,25,100,45.0,55.0
+WI-102,Martina Rojas,WI,Azul Perez,Active,3,Silver,213.65,Belgrano,05-01-2026,,,,20,60,27.0,33.0
+WI-103,Javier Miranda,WI,Anselmo Urrutia,Active,1,Gold,91.42,Wellhub,01-01-2026,,,,15,15,6.75,8.25
+WI-104,Ana Vargas,WI,Azul Perez,Active,3,Gold,380.63,Azure,04-01-2026,,,,25,75,33.75,41.25
+WI-105,Ricardo Vargas,WI,Arturo Rios,Pipeline Expired,1,Gold,185.84,Belgrano,03-01-2026,06-30-2026,06-04-2026,,20,20,9.0,11.0
+WI-106,Diego Fernandez,WI,Mario Gomez,Active,3,Gold,370.56,Molino,04-01-2026,,,,15,45,20.25,24.75
+WI-107,Manuel Aguilar,WI,Miguel Ledezma,Active,3,Silver,257.57,First Aid,06-01-2026,,,,26,78,35.1,42.9
+WI-108,Jose Rios,WI,Nancy Ramirez,Active,1,Bronze,11.84,Molino,06-01-2026,,,,15,15,6.75,8.25
+WI-109,Daniel Benitez,WI,Anselmo Urrutia,Active,1,Silver,78.0,Azure,02-01-2026,,,,25,25,11.25,13.75
+WI-110,Alejandro Ortiz,WI,Marisol Parra,Active,1,Bronze,9.3,Azure,01-01-2026,,,,25,25,11.25,13.75
+WI-111,Javier Nunez,WI,Mario Gomez,Active,3,Silver,262.03,First Aid,02-01-2026,,,,26,78,35.1,42.9
+WI-112,Carlos Mendoza,WI,Arturo Rios,Terminated,3,Silver,254.66,Wellhub,06-01-2026,06-30-2026,,,15,45,20.25,24.75
+WI-113,Luis Fernandez,WI,Marisol Parra,Active,3,Bronze,102.85,Americano Health,02-01-2026,,,,10,30,13.5,16.5
+WI-114,Maria Perez,WI,Azul Perez,Pipeline,3,Silver,269.72,First Aid,04-01-2026,,07-05-2026,Missing Documents,26,78,35.1,42.9
+WI-115,Valentina Gonzalez,WI,Marisol Parra,Pipeline,1,Gold,64.9,Americano Health,06-01-2026,,08-15-2026,Missing Payment,10,10,4.5,5.5
+WI-116,Alejandro Silva,WI,Arturo Rios,Active,1,Silver,331.21,Wellhub,02-01-2026,,,,15,15,6.75,8.25
+WI-117,Andres Ledesma,WI,Mario Gomez,Pipeline,3,Gold,368.9,Panorama,06-01-2026,,09-04-2026,Missing Payment,12,36,16.2,19.8
+WI-118,Valentina Flores,WI,Iris Solorzano,Active,1,Gold,6.99,Molino,05-01-2026,,,,15,15,6.75,8.25
+WI-119,Laura Miranda,WI,Miguel Ledezma,Active,2,Silver,118.23,Rosebud,04-01-2026,,,,30,60,27.0,33.0
+WI-120,Sofia Nunez,WI,Azul Perez,Active,1,Silver,74.68,Panorama,05-01-2026,,,,12,12,5.4,6.6
+WI-121,Ricardo Romero,WI,Miguel Ledezma,Pipeline Expired,3,Silver,252.53,Panorama,02-01-2026,04-30-2026,04-17-2026,,12,36,16.2,19.8
+WI-122,Maria Ruiz,WI,Azul Perez,Active,1,Gold,188.02,Molino,01-01-2026,,,,15,15,6.75,8.25
+WI-123,Mariana Fernandez,WI,Miguel Ledezma,Active,4,Bronze,132.38,Azure,03-01-2026,,,,25,100,45.0,55.0
+WI-124,Ana Aguilar,WI,Marisol Parra,Active,1,Gold,37.59,Americano Health,06-01-2026,,,,10,10,4.5,5.5
+WI-125,Martina Rojas,WI,Marisol Parra,Active,1,Silver,154.31,Panorama,01-01-2026,,,,12,12,5.4,6.6
+WI-126,Diego Ruiz,WI,Marisol Parra,Terminated,1,Silver,270.72,Belgrano,04-01-2026,04-30-2026,,,20,20,9.0,11.0
+WI-127,Victoria Nunez,WI,Anselmo Urrutia,Active,1,Gold,158.61,Americano Health,03-01-2026,,,,10,10,4.5,5.5
+WI-128,Mateo Miranda,WI,Marisol Parra,Pipeline Expired,4,Bronze,168.46,Wellhub,03-01-2026,05-31-2026,05-15-2026,,15,60,27.0,33.0
+WI-129,Sebastian Aguilar,WI,Miguel Ledezma,Active,3,Silver,210.24,Belgrano,03-01-2026,,,,20,60,27.0,33.0
+WI-130,Mariana Marin,WI,Mario Gomez,Active,4,Bronze,162.96,Americano Health,06-01-2026,,,,10,40,18.0,22.0
+WI-131,Jorge Jimenez,WI,Anselmo Urrutia,Pipeline,4,Gold,509.96,Wellhub,04-01-2026,,07-05-2026,Missing Documents,15,60,27.0,33.0
+WI-132,Pedro Fernandez,WI,Mario Gomez,Terminated,4,Silver,399.65,Americano Health,01-01-2026,05-31-2026,,,10,40,18.0,22.0
+WI-133,Daniela Ruiz,WI,Mario Gomez,Active,2,Gold,330.83,Panorama,02-01-2026,,,,12,24,10.8,13.2
+WI-134,Jose Martinez,WI,Anselmo Urrutia,Active,2,Gold,343.59,Wellhub,02-01-2026,,,,15,30,13.5,16.5
+WI-135,Carlos Perez,WI,Iris Solorzano,Terminated,4,Gold,557.92,Americano Health,03-01-2026,05-31-2026,,,10,40,18.0,22.0
+WI-136,Nicolas Nunez,WI,Anselmo Urrutia,Pipeline,4,Bronze,152.86,Azure,05-01-2026,,08-04-2026,Missing Documents,25,100,45.0,55.0
+WI-137,Lucas Ramos,WI,Iris Solorzano,Pipeline,1,Silver,303.12,Belgrano,04-01-2026,,07-05-2026,Missing Documents,20,20,9.0,11.0
+WI-138,Lucas Ortiz,WI,Anselmo Urrutia,Pipeline Expired,2,Bronze,62.07,Azure,02-01-2026,05-31-2026,05-07-2026,,25,50,22.5,27.5
+WI-139,Daniel Alvarez,WI,Miguel Ledezma,Active,1,Bronze,77.27,First Aid,02-01-2026,,,,26,26,11.7,14.3
+WI-140,Santiago Marin,WI,Arturo Rios,Active,1,Gold,178.31,Azure,06-01-2026,,,,25,25,11.25,13.75
+WI-141,Daniel Nunez,WI,Arturo Rios,Terminated,4,Gold,624.51,Wellhub,01-01-2026,01-31-2026,,,15,60,27.0,33.0
+WI-142,Jose Ledesma,WI,Iris Solorzano,Active,1,Silver,76.34,Rosebud,02-01-2026,,,,30,30,13.5,16.5
+WI-143,Juan Rodriguez,WI,Nancy Ramirez,Active,2,Gold,257.04,Americano Health,06-01-2026,,,,10,20,9.0,11.0
+WI-144,Mateo Chavez,WI,Nancy Ramirez,Terminated,3,Silver,237.55,Molino,06-01-2026,06-30-2026,,,15,45,20.25,24.75
+WI-145,Alejandro Benitez,WI,Miguel Ledezma,Active,2,Gold,241.38,Wellhub,05-01-2026,,,,15,30,13.5,16.5
+WI-146,Gabriela Tovar,WI,Azul Perez,Active,2,Gold,206.16,First Aid,02-01-2026,,,,26,52,23.4,28.6
+WI-147,Lucia Alvarez,WI,Iris Solorzano,Pipeline,1,Gold,183.42,Rosebud,06-01-2026,,08-15-2026,Missing Payment,30,30,13.5,16.5
+WI-148,Elena Nunez,WI,Mario Gomez,Active,1,Gold,177.44,Panorama,04-01-2026,,,,12,12,5.4,6.6
+WI-149,Ricardo Rios,WI,Marisol Parra,Terminated,1,Bronze,2.51,First Aid,06-01-2026,06-30-2026,,,26,26,11.7,14.3
+WI-150,Laura Silva,WI,Arturo Rios,Active,3,Gold,372.51,Panorama,04-01-2026,,,,12,36,16.2,19.8
+WI-151,Camila Ramos,WI,Iris Solorzano,Terminated,1,Gold,447.31,Molino,01-01-2026,01-31-2026,,,15,15,6.75,8.25
+WI-152,Ricardo Rojas,WI,Azul Perez,Active,2,Silver,119.99,Rosebud,02-01-2026,,,,30,60,27.0,33.0
+WI-153,Natalia Nunez,WI,Iris Solorzano,Active,1,Silver,78.96,Rosebud,05-01-2026,,,,30,30,13.5,16.5
+WI-154,Paula Nunez,WI,Anselmo Urrutia,Active,4,Bronze,159.13,Rosebud,05-01-2026,,,,30,120,54.0,66.0
+WI-155,Valentina Herrera,WI,Marisol Parra,Pipeline Expired,4,Bronze,134.58,Molino,03-01-2026,05-31-2026,05-15-2026,,15,60,27.0,33.0
+WI-156,Laura Ruiz,WI,Nancy Ramirez,Terminated,1,Silver,122.13,Belgrano,05-01-2026,06-30-2026,,,20,20,9.0,11.0
+WI-157,Santiago Lopez,WI,Azul Perez,Active,2,Bronze,63.32,Panorama,05-01-2026,,,,12,24,10.8,13.2
+WI-158,Alejandro Diaz,WI,Miguel Ledezma,Terminated,4,Bronze,146.85,Americano Health,05-01-2026,06-30-2026,,,10,40,18.0,22.0
+WI-159,Martina Sanchez,WI,Mario Gomez,Terminated,3,Bronze,118.41,Panorama,04-01-2026,04-30-2026,,,12,36,16.2,19.8
+WI-160,Paula Silva,WI,Marisol Parra,Pipeline Expired,1,Gold,324.01,Rosebud,02-01-2026,05-31-2026,05-07-2026,,30,30,13.5,16.5
+WI-161,Elena Perez,WI,Miguel Ledezma,Active,1,Bronze,71.35,Rosebud,04-01-2026,,,,30,30,13.5,16.5
+WI-162,Fernando Jimenez,WI,Arturo Rios,Terminated,1,Bronze,81.04,Gecko,05-01-2026,06-30-2026,,,10,10,4.5,5.5
+WI-163,Daniel Flores,WI,Arturo Rios,Terminated,4,Gold,502.35,Americano Health,06-01-2026,06-30-2026,,,10,40,18.0,22.0
+WI-164,Jose Nunez,WI,Azul Perez,Pipeline Expired,2,Bronze,72.49,First Aid,03-01-2026,05-31-2026,05-15-2026,,26,52,23.4,28.6
+WI-165,Andres Garcia,WI,Azul Perez,Active,2,Silver,100.14,Azure,01-01-2026,,,,25,50,22.5,27.5
+WI-166,Manuel Jimenez,WI,Arturo Rios,Active,2,Gold,252.19,Molino,04-01-2026,,,,15,30,13.5,16.5
+WI-167,Daniela Romero,WI,Anselmo Urrutia,Active,4,Gold,634.92,Molino,01-01-2026,,,,15,60,27.0,33.0
+WI-168,Mateo Fernandez,WI,Marisol Parra,Terminated,4,Bronze,137.88,Azure,05-01-2026,05-31-2026,,,25,100,45.0,55.0
+WI-169,Santiago Flores,WI,Iris Solorzano,Terminated,1,Bronze,424.04,Rosebud,03-01-2026,06-30-2026,,,30,30,13.5,16.5
+WI-170,Fernando Martinez,WI,Arturo Rios,Active,3,Bronze,79.31,Americano Health,01-01-2026,,,,10,30,13.5,16.5
+WI-171,Elena Gutierrez,WI,Nancy Ramirez,Terminated,1,Gold,197.88,Belgrano,05-01-2026,06-30-2026,,,20,20,9.0,11.0
+WI-172,Natalia Medina,WI,Marisol Parra,Active,1,Gold,495.25,First Aid,03-01-2026,,,,26,26,11.7,14.3
+WI-173,Claudia Aguilar,WI,Anselmo Urrutia,Active,4,Gold,508.51,Wellhub,03-01-2026,,,,15,60,27.0,33.0
+WI-174,Manuel Ramos,WI,Azul Perez,Active,1,Gold,178.87,Belgrano,06-01-2026,,,,20,20,9.0,11.0
+WI-175,Santiago Chavez,WI,Iris Solorzano,Active,4,Bronze,143.57,Rosebud,04-01-2026,,,,30,120,54.0,66.0
+WI-176,Andres Acosta,WI,Nancy Ramirez,Pipeline,2,Gold,243.8,Belgrano,04-01-2026,,07-05-2026,Missing Documents,20,40,18.0,22.0
